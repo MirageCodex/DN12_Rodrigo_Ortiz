@@ -1,0 +1,6 @@
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExapmle\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExapmle\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExapmle\AudioManager\obj\Debug\AudioManager.csproj.AssemblyReference.cache
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExapmle\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExapmle\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\T1\OOP.ConsoleExapmle\AudioManager\obj\Debug\AudioManager.pdb
