@@ -1,0 +1,6 @@
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\E1\Rodrigo's-AudioManager\Nuget\bin\Debug\Nuget.dll
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\E1\Rodrigo's-AudioManager\Nuget\bin\Debug\Nuget.pdb
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\E1\Rodrigo's-AudioManager\Nuget\obj\Debug\Nuget.csproj.AssemblyReference.cache
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\E1\Rodrigo's-AudioManager\Nuget\obj\Debug\Nuget.csproj.CoreCompileInputs.cache
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\E1\Rodrigo's-AudioManager\Nuget\obj\Debug\Nuget.dll
+C:\Users\PC01\Documents\GitHub\DN12_Rodrigo_Ortiz\M1_ObjectOrientedProgramming\E1\Rodrigo's-AudioManager\Nuget\obj\Debug\Nuget.pdb
