@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Nuget\Nuget.csproj">
-      <Project>{4b7f2a63-7c0e-43f4-856a-f3a4e1a3eb75}</Project>
-      <Name>Nuget</Name>
+    <ProjectReference Include="..\vehiculo\Libreria.csproj">
+      <Project>{fbcdd351-5bac-43d1-9040-5c4b6fd4cf2a}</Project>
+      <Name>Libreria</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

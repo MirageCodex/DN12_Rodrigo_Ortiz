@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Nuget;
+using Libreria;
 
 
 namespace Rodrigo_s_AudioManager
@@ -15,9 +15,9 @@ namespace Rodrigo_s_AudioManager
             Console.WriteLine("¡Hola Mundo!"); 
             Console.WriteLine("Este es mi Manager de Audio");
 
-            NAudio Nuget = new NAudio();
+            Class1 libreria = new Class1();
 
-            Nuget.NugetSound();
+            libreria.nugget();
 
             Console.ReadKey(); 
         }
