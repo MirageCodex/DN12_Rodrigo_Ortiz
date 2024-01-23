@@ -24,7 +24,7 @@
     }
     var t = document.getElementById("sampleTable");
     var currentHtml = t.innerHTML;
-    t.innerHTML += "<tr><td>" + b.getAttribute("name") +"</td></td>"+ new Date()+"</td></tr>";
+    t.innerHTML += "<tr><td>" + b.getAttribute("name") + "</td><td>" + new Date() + "</td></tr>";
     /////////////////////////////////
 }
 var buttons = document.getElementsByTagName("button");

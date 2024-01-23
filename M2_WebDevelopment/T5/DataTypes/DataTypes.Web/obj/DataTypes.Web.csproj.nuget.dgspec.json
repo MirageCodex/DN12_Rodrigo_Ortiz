@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes.Web\\DataTypes.Web.csproj": {}
+    "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\DataTypes.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes.Web\\DataTypes.Web.csproj": {
+    "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\DataTypes.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes.Web\\DataTypes.Web.csproj",
+        "projectUniqueName": "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\DataTypes.Web.csproj",
         "projectName": "DataTypes.Web",
-        "projectPath": "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes.Web\\DataTypes.Web.csproj",
-        "packagesPath": "C:\\Users\\dlcht\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes.Web\\obj\\",
+        "projectPath": "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\DataTypes.Web.csproj",
+        "packagesPath": "C:\\Users\\PC01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dlcht\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/dLfk8RF8/PBSGo8x3dZD+ZBGs67hoOCcPNbijAXnWA=",
+  "Hash": "A1Uk4Dw891zAVsqBJybDsIzvB1Wl29+7d3xrFmo2f5U=",
   "Source": "DataTypes.Web",
   "BasePath": "_content/DataTypes.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DataTypes.Web\\wwwroot",
       "Source": "DataTypes.Web",
-      "ContentRoot": "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\wwwroot\\",
       "BasePath": "_content/DataTypes.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes.Web\\wwwroot\\JavaScript.js",
+      "Identity": "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\wwwroot\\JavaScript.js",
       "SourceId": "DataTypes.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes.Web\\wwwroot\\",
       "BasePath": "_content/DataTypes.Web",
       "RelativePath": "JavaScript.js",
       "AssetKind": "All",

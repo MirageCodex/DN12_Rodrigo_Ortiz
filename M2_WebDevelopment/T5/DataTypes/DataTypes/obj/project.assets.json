@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dlcht\\.nuget\\packages\\": {}
+    "C:\\Users\\PC01\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes\\DataTypes.csproj",
+      "projectUniqueName": "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes\\DataTypes.csproj",
       "projectName": "DataTypes",
-      "projectPath": "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes\\DataTypes.csproj",
-      "packagesPath": "C:\\Users\\dlcht\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dlcht\\source\\repos\\DataTypes\\DataTypes\\obj\\",
+      "projectPath": "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes\\DataTypes.csproj",
+      "packagesPath": "C:\\Users\\PC01\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC01\\Documents\\GitHub\\DN12_Rodrigo_Ortiz\\M2_WebDevelopment\\T5\\DataTypes\\DataTypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dlcht\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
