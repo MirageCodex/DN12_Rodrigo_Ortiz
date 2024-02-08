@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    more test content
+*@
+@model GymManager.Web.Models.MemberListViewModel
+
+
+@{
+    DateTime now = DateTime.Now;
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+
+}
+<div class="container">
+    <h1>Welcome to Gym Manager</h1>
+    <p>New Members of the Week : @Model.NewMembersCount</p>
+    @await Html.PartialAsync("/Views/Shared/_MemberList.cshtml", Model.Members)
+</div>
+
