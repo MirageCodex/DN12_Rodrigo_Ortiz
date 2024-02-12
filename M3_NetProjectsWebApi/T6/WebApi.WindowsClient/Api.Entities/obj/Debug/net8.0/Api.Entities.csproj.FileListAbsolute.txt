@@ -1,0 +1,11 @@
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\bin\Debug\net8.0\Api.Entities.deps.json
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\bin\Debug\net8.0\Api.Entities.dll
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\bin\Debug\net8.0\Api.Entities.pdb
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.AssemblyInfoInputs.cache
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.AssemblyInfo.cs
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.dll
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\obj\Debug\net8.0\refint\Api.Entities.dll
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\obj\Debug\net8.0\Api.Entities.pdb
+C:\Users\dlcht\source\repos\WebApi.WindowsClient\Api.Entities\obj\Debug\net8.0\ref\Api.Entities.dll
