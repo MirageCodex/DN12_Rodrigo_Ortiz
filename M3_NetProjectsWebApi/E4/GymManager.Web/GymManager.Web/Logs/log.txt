@@ -1,0 +1,4 @@
+2024-02-14 14:01:07.088 -05:00 [INF] User executed Member´s Index at 14/2/2024 14:01:07
+2024-02-14 14:01:10.533 -05:00 [INF] User executed Member´s Index at 14/2/2024 14:01:10
+2024-02-14 14:01:13.196 -05:00 [INF] User executed Member´s Index at 14/2/2024 14:01:13
+2024-02-14 14:01:16.565 -05:00 [INF] User executed Member´s Index at 14/2/2024 14:01:16
