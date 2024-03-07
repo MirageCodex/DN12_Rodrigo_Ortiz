@@ -1,0 +1,11 @@
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net8.0\DataAccess.Example.Core.deps.json
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net8.0\DataAccess.Example.Core.dll
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net8.0\DataAccess.Example.Core.pdb
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net8.0\DataAccess.Example.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net8.0\DataAccess.Example.Core.AssemblyInfoInputs.cache
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net8.0\DataAccess.Example.Core.AssemblyInfo.cs
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net8.0\DataAccess.Example.Core.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net8.0\DataAccess.Example.Core.dll
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net8.0\refint\DataAccess.Example.Core.dll
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net8.0\DataAccess.Example.Core.pdb
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net8.0\ref\DataAccess.Example.Core.dll

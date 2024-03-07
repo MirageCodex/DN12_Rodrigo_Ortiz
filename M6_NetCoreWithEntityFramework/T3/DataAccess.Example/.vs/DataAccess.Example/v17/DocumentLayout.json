@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87C44E0D-C0D2-46A0-A0AF-11993CFD7DBB}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.entityframework\\migrations\\vehiclesdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C44E0D-C0D2-46A0-A0AF-11993CFD7DBB}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|solutionrelative:dataaccess.example.entityframework\\migrations\\vehiclesdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C44E0D-C0D2-46A0-A0AF-11993CFD7DBB}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.entityframework\\migrations\\20240307194859_incentives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C44E0D-C0D2-46A0-A0AF-11993CFD7DBB}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|solutionrelative:dataaccess.example.entityframework\\migrations\\20240307194859_incentives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C44E0D-C0D2-46A0-A0AF-11993CFD7DBB}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.entityframework\\migrations\\20240307173804_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C44E0D-C0D2-46A0-A0AF-11993CFD7DBB}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|solutionrelative:dataaccess.example.entityframework\\migrations\\20240307173804_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C44E0D-C0D2-46A0-A0AF-11993CFD7DBB}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.entityframework\\vehiclesdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C44E0D-C0D2-46A0-A0AF-11993CFD7DBB}|DataAccess.Example.EntityFramework\\DataAccess.Example.EntityFramework.csproj|solutionrelative:dataaccess.example.entityframework\\vehiclesdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.core\\vehicleincentive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\vehicleincentive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.core\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.core\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.core\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\Migrations\\20240307185544_VehiclesMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess.Example.EntityFramework\\Migrations\\20240307185544_VehiclesMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.core\\make.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\make.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.core\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.core\\incentive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\incentive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81A09BB-9D6A-487E-ABF6-0546BCA2395C}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E81A09BB-9D6A-487E-ABF6-0546BCA2395C}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|solutionrelative:dataaccess.example.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81A09BB-9D6A-487E-ABF6-0546BCA2395C}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81A09BB-9D6A-487E-ABF6-0546BCA2395C}|DataAccess.Example.WebApi\\DataAccess.Example.WebApi.csproj|solutionrelative:dataaccess.example.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example.core\\dataaccess.example.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0FFDEAD-D4C8-4ED3-8B6C-CB5198C4911F}|DataAccess.Example.Core\\DataAccess.Example.Core.csproj|solutionrelative:dataaccess.example.core\\dataaccess.example.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33965DF-9264-42D8-A64E-3C7BD0F3D595}|DataAccess.Example\\DataAccess.Example.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33965DF-9264-42D8-A64E-3C7BD0F3D595}|DataAccess.Example\\DataAccess.Example.csproj|solutionrelative:dataaccess.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33965DF-9264-42D8-A64E-3C7BD0F3D595}|DataAccess.Example\\DataAccess.Example.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example\\entities\\companycreationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33965DF-9264-42D8-A64E-3C7BD0F3D595}|DataAccess.Example\\DataAccess.Example.csproj|solutionrelative:dataaccess.example\\entities\\companycreationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33965DF-9264-42D8-A64E-3C7BD0F3D595}|DataAccess.Example\\DataAccess.Example.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.example\\dataaccess.example\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33965DF-9264-42D8-A64E-3C7BD0F3D595}|DataAccess.Example\\DataAccess.Example.csproj|solutionrelative:dataaccess.example\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiclesDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\Migrations\\VehiclesDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.EntityFramework\\Migrations\\VehiclesDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\Migrations\\VehiclesDataContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccess.Example.EntityFramework\\Migrations\\VehiclesDataContextModelSnapshot.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:38:50.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240307194859_Incentives.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\Migrations\\20240307194859_Incentives.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.EntityFramework\\Migrations\\20240307194859_Incentives.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\Migrations\\20240307194859_Incentives.cs",
+              "RelativeToolTip": "DataAccess.Example.EntityFramework\\Migrations\\20240307194859_Incentives.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:48:59.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleIncentive.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\VehicleIncentive.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\VehicleIncentive.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\VehicleIncentive.cs",
+              "RelativeToolTip": "DataAccess.Example.Core\\VehicleIncentive.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:42:25.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Inventory.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\Inventory.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Inventory.cs",
+              "RelativeToolTip": "DataAccess.Example.Core\\Inventory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:37:51.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Vehicle.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Vehicle.cs",
+              "RelativeToolTip": "DataAccess.Example.Core\\Vehicle.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:46:35.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Color.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\Color.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Color.cs",
+              "RelativeToolTip": "DataAccess.Example.Core\\Color.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:43:09.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240307173804_InitMigration.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\Migrations\\20240307173804_InitMigration.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.EntityFramework\\Migrations\\20240307173804_InitMigration.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\Migrations\\20240307173804_InitMigration.cs",
+              "RelativeToolTip": "DataAccess.Example.EntityFramework\\Migrations\\20240307173804_InitMigration.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:38:04.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240307185544_VehiclesMigration.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\Migrations\\20240307185544_VehiclesMigration.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.EntityFramework\\Migrations\\20240307185544_VehiclesMigration.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\Migrations\\20240307185544_VehiclesMigration.cs",
+              "RelativeToolTip": "DataAccess.Example.EntityFramework\\Migrations\\20240307185544_VehiclesMigration.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwE4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:55:44.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Incentive.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Incentive.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\Incentive.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Incentive.cs",
+              "RelativeToolTip": "DataAccess.Example.Core\\Incentive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:45:17.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiclesDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\VehiclesDataContext.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.EntityFramework\\VehiclesDataContext.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.EntityFramework\\VehiclesDataContext.cs",
+              "RelativeToolTip": "DataAccess.Example.EntityFramework\\VehiclesDataContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:04:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess.Example.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.WebApi\\appsettings.json",
+              "RelativeToolTip": "DataAccess.Example.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T17:22:09.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Model.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\Model.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Model.cs",
+              "RelativeToolTip": "DataAccess.Example.Core\\Model.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:55:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Make.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Make.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\Make.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\Make.cs",
+              "RelativeToolTip": "DataAccess.Example.Core\\Make.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:01:40.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.WebApi\\Program.cs",
+              "RelativeToolTip": "DataAccess.Example.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:25:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataAccess.Example.Core",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\DataAccess.Example.Core.csproj",
+              "RelativeDocumentMoniker": "DataAccess.Example.Core\\DataAccess.Example.Core.csproj",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example.Core\\DataAccess.Example.Core.csproj",
+              "RelativeToolTip": "DataAccess.Example.Core\\DataAccess.Example.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T14:27:21.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CompanyCreationResult.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example\\Entities\\CompanyCreationResult.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example\\Entities\\CompanyCreationResult.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example\\Entities\\CompanyCreationResult.cs",
+              "RelativeToolTip": "DataAccess.Example\\Entities\\CompanyCreationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:30:31.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccess.Example\\Entities\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T21:28:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccess.Example\\Program.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example\\Program.cs",
+              "RelativeToolTip": "DataAccess.Example\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:27:28.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

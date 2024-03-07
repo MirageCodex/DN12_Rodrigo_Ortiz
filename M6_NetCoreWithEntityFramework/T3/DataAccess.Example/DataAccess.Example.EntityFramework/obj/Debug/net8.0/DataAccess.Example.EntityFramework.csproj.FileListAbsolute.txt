@@ -1,0 +1,17 @@
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Debug\net8.0\DataAccess.Example.EntityFramework.deps.json
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Debug\net8.0\DataAccess.Example.EntityFramework.runtimeconfig.json
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Debug\net8.0\DataAccess.Example.EntityFramework.dll
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Debug\net8.0\DataAccess.Example.EntityFramework.pdb
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Debug\net8.0\DataAccess.Example.Core.dll
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Debug\net8.0\DataAccess.Example.Core.pdb
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\DataAccess.Example.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\DataAccess.Example.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\DataAccess.Example.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\DataAccess.Example.EntityFramework.AssemblyInfo.cs
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\DataAccess.Example.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\DataAcce.0AD6364A.Up2Date
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\DataAccess.Example.EntityFramework.dll
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\refint\DataAccess.Example.EntityFramework.dll
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\DataAccess.Example.EntityFramework.pdb
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\DataAccess.Example.EntityFramework.genruntimeconfig.cache
+C:\Users\dlcht\source\repos\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Debug\net8.0\ref\DataAccess.Example.EntityFramework.dll
