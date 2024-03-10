@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "DataAccess.GymManager.WebApi.Controllers.GymManagerController",
+    "Method": "GetMembersLastWeek",
+    "RelativePath": "api/GymManager/members-last-week",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAccess.GymManager.WebApi.Controllers.GymManagerController",
+    "Method": "GetProductsInStockByType",
+    "RelativePath": "api/GymManager/products-in-stock-by-type",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAccess.GymManager.WebApi.Controllers.GymManagerController",
+    "Method": "RegisterSale",
+    "RelativePath": "api/GymManager/register-sale",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DataAccess.GymManager.WebApi.Controllers.GymManagerController\u002BSaleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataAccess.GymManager.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DataAccess.GymManager.WeatherForecast, DataAccess.GymManager.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

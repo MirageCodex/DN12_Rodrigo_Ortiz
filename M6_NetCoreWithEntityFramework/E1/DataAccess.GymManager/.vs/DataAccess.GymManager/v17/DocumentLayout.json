@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8073B2AE-2604-460B-A8BB-8B44856A780F}|DataAccess.GymManager\\DataAccess.GymManager.WebApi.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager\\controllers\\gymmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8073B2AE-2604-460B-A8BB-8B44856A780F}|DataAccess.GymManager\\DataAccess.GymManager.WebApi.csproj|solutionrelative:dataaccess.gymmanager\\controllers\\gymmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8073B2AE-2604-460B-A8BB-8B44856A780F}|DataAccess.GymManager\\DataAccess.GymManager.WebApi.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8073B2AE-2604-460B-A8BB-8B44856A780F}|DataAccess.GymManager\\DataAccess.GymManager.WebApi.csproj|solutionrelative:dataaccess.gymmanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\equipmenttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\equipmenttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE0C261-2134-426F-8F7C-A70CD76B287C}|DataAccess.GymManager.EntityFramework\\DataAccess.GymManager.EntityFramework.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.entityframework\\gymmanagerdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE0C261-2134-426F-8F7C-A70CD76B287C}|DataAccess.GymManager.EntityFramework\\DataAccess.GymManager.EntityFramework.csproj|solutionrelative:dataaccess.gymmanager.entityframework\\gymmanagerdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE0C261-2134-426F-8F7C-A70CD76B287C}|DataAccess.GymManager.EntityFramework\\DataAccess.GymManager.EntityFramework.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.entityframework\\iquerrysgymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE0C261-2134-426F-8F7C-A70CD76B287C}|DataAccess.GymManager.EntityFramework\\DataAccess.GymManager.EntityFramework.csproj|solutionrelative:dataaccess.gymmanager.entityframework\\iquerrysgymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE0C261-2134-426F-8F7C-A70CD76B287C}|DataAccess.GymManager.EntityFramework\\DataAccess.GymManager.EntityFramework.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.entityframework\\querrysgymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE0C261-2134-426F-8F7C-A70CD76B287C}|DataAccess.GymManager.EntityFramework\\DataAccess.GymManager.EntityFramework.csproj|solutionrelative:dataaccess.gymmanager.entityframework\\querrysgymmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\mesuretypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\mesuretypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\dataaccess.gymmanager.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\dataaccess.gymmanager.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\userinrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\userinrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\producttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\producttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager.core\\membershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C6D1A7-9BE5-4222-817F-4D7A8389AE58}|DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj|solutionrelative:dataaccess.gymmanager.core\\membershiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8073B2AE-2604-460B-A8BB-8B44856A780F}|DataAccess.GymManager\\DataAccess.GymManager.WebApi.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8073B2AE-2604-460B-A8BB-8B44856A780F}|DataAccess.GymManager\\DataAccess.GymManager.WebApi.csproj|solutionrelative:dataaccess.gymmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8073B2AE-2604-460B-A8BB-8B44856A780F}|DataAccess.GymManager\\DataAccess.GymManager.WebApi.csproj|c:\\users\\dlcht\\source\\repos\\dataaccess.gymmanager\\dataaccess.gymmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8073B2AE-2604-460B-A8BB-8B44856A780F}|DataAccess.GymManager\\DataAccess.GymManager.WebApi.csproj|solutionrelative:dataaccess.gymmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\City.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\City.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\City.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\City.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:53:06.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\Inventory.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\Inventory.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\Inventory.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\Inventory.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:02:47.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GymManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager\\Controllers\\GymManagerController.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager\\Controllers\\GymManagerController.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager\\Controllers\\GymManagerController.cs",
+              "RelativeToolTip": "DataAccess.GymManager\\Controllers\\GymManagerController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:55:29.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipmentTypes.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\EquipmentTypes.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\EquipmentTypes.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\EquipmentTypes.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\EquipmentTypes.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:18:37.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\Member.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\Member.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\Member.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:30:20.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DataAccess.GymManager\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:59:00.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GymManagerDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.EntityFramework\\GymManagerDataContext.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.EntityFramework\\GymManagerDataContext.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.EntityFramework\\GymManagerDataContext.cs",
+              "RelativeToolTip": "DataAccess.GymManager.EntityFramework\\GymManagerDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:14:35.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IQuerrysGymManager.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.EntityFramework\\IQuerrysGymManager.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.EntityFramework\\IQuerrysGymManager.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.EntityFramework\\IQuerrysGymManager.cs",
+              "RelativeToolTip": "DataAccess.GymManager.EntityFramework\\IQuerrysGymManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:30:15.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuerrysGymManager.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.EntityFramework\\QuerrysGymManager.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.EntityFramework\\QuerrysGymManager.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.EntityFramework\\QuerrysGymManager.cs",
+              "RelativeToolTip": "DataAccess.GymManager.EntityFramework\\QuerrysGymManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:30:44.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MesureTypes.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\MesureTypes.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\MesureTypes.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\MesureTypes.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\MesureTypes.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:10:47.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataAccess.GymManager.Core",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\DataAccess.GymManager.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T23:32:13.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MembershipType.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\MembershipType.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\MembershipType.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\MembershipType.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\MembershipType.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:02:09.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserInRole.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\UserInRole.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\UserInRole.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\UserInRole.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\UserInRole.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:28:12.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\User.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\User.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\User.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:57:53.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\Sales.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\Sales.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\Sales.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:06:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\Role.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\Role.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\Role.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\Role.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:55:42.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductTypes.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\ProductTypes.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager.Core\\ProductTypes.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager.Core\\ProductTypes.cs",
+              "RelativeToolTip": "DataAccess.GymManager.Core\\ProductTypes.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:24:58.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager\\Program.cs",
+              "RelativeDocumentMoniker": "DataAccess.GymManager\\Program.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager\\Program.cs",
+              "RelativeToolTip": "DataAccess.GymManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T00:03:17.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess.GymManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\DataAccess.GymManager\\DataAccess.GymManager\\appsettings.json",
+              "RelativeToolTip": "DataAccess.GymManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T23:31:04.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

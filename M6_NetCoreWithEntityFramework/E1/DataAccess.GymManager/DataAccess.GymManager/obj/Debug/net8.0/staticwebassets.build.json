@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FR9YnOQJrR4OvGXNC+QCnSONCR/0DLycqGkZ/9MMEfk=",
+  "Source": "DataAccess.GymManager.WebApi",
+  "BasePath": "_content/DataAccess.GymManager.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

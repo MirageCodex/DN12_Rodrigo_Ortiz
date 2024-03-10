@@ -1,0 +1,11 @@
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\bin\Debug\net8.0\DataAccess.GymManager.Core.deps.json
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\bin\Debug\net8.0\DataAccess.GymManager.Core.dll
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\bin\Debug\net8.0\DataAccess.GymManager.Core.pdb
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\obj\Debug\net8.0\DataAccess.GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\obj\Debug\net8.0\DataAccess.GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\obj\Debug\net8.0\DataAccess.GymManager.Core.AssemblyInfo.cs
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\obj\Debug\net8.0\DataAccess.GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\obj\Debug\net8.0\DataAccess.GymManager.Core.dll
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\obj\Debug\net8.0\refint\DataAccess.GymManager.Core.dll
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\obj\Debug\net8.0\DataAccess.GymManager.Core.pdb
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.Core\obj\Debug\net8.0\ref\DataAccess.GymManager.Core.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DataAccess.GymManager.WebApi.props" />
+</Project>

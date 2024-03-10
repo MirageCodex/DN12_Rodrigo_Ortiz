@@ -1,0 +1,6 @@
+@DataAccess.GymManager_HostAddress = http://localhost:5094
+
+GET {{DataAccess.GymManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

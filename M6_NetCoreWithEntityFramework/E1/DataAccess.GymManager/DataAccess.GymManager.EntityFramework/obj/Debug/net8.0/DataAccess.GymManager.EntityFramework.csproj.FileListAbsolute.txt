@@ -1,0 +1,17 @@
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\bin\Debug\net8.0\DataAccess.GymManager.EntityFramework.deps.json
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\bin\Debug\net8.0\DataAccess.GymManager.EntityFramework.runtimeconfig.json
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\bin\Debug\net8.0\DataAccess.GymManager.EntityFramework.dll
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\bin\Debug\net8.0\DataAccess.GymManager.EntityFramework.pdb
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\bin\Debug\net8.0\DataAccess.GymManager.Core.dll
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\bin\Debug\net8.0\DataAccess.GymManager.Core.pdb
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\DataAccess.GymManager.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\DataAccess.GymManager.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\DataAccess.GymManager.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\DataAccess.GymManager.EntityFramework.AssemblyInfo.cs
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\DataAccess.GymManager.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\DataAcce.A56DFBD9.Up2Date
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\DataAccess.GymManager.EntityFramework.dll
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\refint\DataAccess.GymManager.EntityFramework.dll
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\DataAccess.GymManager.EntityFramework.pdb
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\DataAccess.GymManager.EntityFramework.genruntimeconfig.cache
+C:\Users\dlcht\source\repos\DataAccess.GymManager\DataAccess.GymManager.EntityFramework\obj\Debug\net8.0\ref\DataAccess.GymManager.EntityFramework.dll
