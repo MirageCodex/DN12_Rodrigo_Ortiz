@@ -1,0 +1,79 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Rotativa\Linux\wkhtmltopdf" />
+    <None Remove="Rotativa\Mac\wkhtmltopdf" />
+    <None Remove="Rotativa\Windows\wkhtmltopdf.exe" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Rotativa\Linux\wkhtmltopdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Rotativa\Mac\wkhtmltopdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Rotativa\Windows\wkhtmltopdf.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.1" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.1" />
+    <PackageReference Include="Serilog.Extensions.Logging" Version="8.0.0" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="8.0.0" />
+    <PackageReference Include="Wkhtmltopdf.NetCore" Version="3.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GymManager.Core\GymManager.Core.csproj" />
+    <ProjectReference Include="..\GymManager.DateAccess\GymManager.DataAccess.csproj" />
+    <ProjectReference Include="..\GymManagerApplicationServices\GymManagerApplicationServices.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Logs\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Account\Login.cshtml" />
+    <None Include="Views\Attendance\MemberIn.cshtml" />
+    <None Include="Views\Attendance\MemberOut.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Invoicing\GenerateInvoice.cshtml" />
+    <None Include="Views\Invoicing\Print.cshtml" />
+    <None Include="Views\Invoicing\_PrintView.cshtml" />
+    <None Include="Views\MembershipTypes\Create.cshtml" />
+    <None Include="Views\MembershipTypes\Edit.cshtml" />
+    <None Include="Views\MembershipTypes\Index.cshtml" />
+    <None Include="Views\Members\Create.cshtml" />
+    <None Include="Views\Members\Edit.cshtml" />
+    <None Include="Views\Members\Index.cshtml" />
+    <None Include="Views\Members\Test.cshtml" />
+    <None Include="Views\Shared\Components\AppMenu\Default.cshtml" />
+    <None Include="Views\Shared\Components\AppMenu\_UserMenuItem.cshtml" />
+    <None Include="Views\Shared\_EngineerName.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_LayoutLogin.cshtml" />
+    <None Include="Views\Shared\_MemberList.cshtml" />
+    <None Include="Views\Shared\_MembershipTypeList.cshtml" />
+    <None Include="Views\Users\Create.cshtml" />
+    <None Include="Views\Users\Edit.cshtml" />
+    <None Include="Views\Users\Index.cshtml" />
+    <None Include="Views\_ViewImports.cshtml" />
+  </ItemGroup>
+
+</Project>
