@@ -1,0 +1,17 @@
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\bin\Debug\net8.0\GymManager.DataAccess.deps.json
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\bin\Debug\net8.0\GymManager.DataAccess.runtimeconfig.json
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\bin\Debug\net8.0\GymManager.DataAccess.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\bin\Debug\net8.0\GymManager.DataAccess.pdb
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\GymManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\GymManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\GymManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\GymManager.DataAccess.AssemblyInfo.cs
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\GymManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\GymManager.DataAccess.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\refint\GymManager.DataAccess.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\GymManager.DataAccess.pdb
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\GymManager.DataAccess.genruntimeconfig.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\ref\GymManager.DataAccess.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\bin\Debug\net8.0\GymManager.Core.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\bin\Debug\net8.0\GymManager.Core.pdb
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.DateAccess\obj\Debug\net8.0\GymManag.9589B9E4.Up2Date

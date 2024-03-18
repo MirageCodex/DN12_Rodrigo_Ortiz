@@ -1,0 +1,31 @@
+﻿@model GymManager.Core.EquipmentTypes.EquipmentType
+@{
+    DateTime now = DateTime.Now;
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+@section Head {
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="/lib/jqueryui/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.structure.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.theme.min.css" rel="stylesheet" />
+}
+<div class="container">
+    <h3 class="mt-5">Equipment Type Registration</h3>
+    <form asp-action="Create">
+        <div class="mt-3">
+            <label asp-for="EquipmentName" class="form-label">Equipment Type Name</label>
+            <input type="text" class="form-control" asp-for="EquipmentName" />
+            <span asp-validation-for="EquipmentName" class="text-danger"></span>
+        </div>
+        <!-- Puedes agregar más campos según sea necesario -->
+        <button type="submit" class="btn btn-primary mb-3">Submit</button>
+    </form>
+</div>
+@section Script {
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="/lib/jqueryui/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="/views/members/create.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.js"></script>
+}
