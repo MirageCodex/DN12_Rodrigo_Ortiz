@@ -1,0 +1,17 @@
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\bin\Debug\net8.0\GymManagerApplicationServices.deps.json
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\bin\Debug\net8.0\GymManagerApplicationServices.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\bin\Debug\net8.0\GymManagerApplicationServices.pdb
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\bin\Debug\net8.0\GymManager.Core.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\bin\Debug\net8.0\GymManager.Core.pdb
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\GymManagerApplicationServices.csproj.AssemblyReference.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\GymManagerApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\GymManagerApplicationServices.AssemblyInfoInputs.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\GymManagerApplicationServices.AssemblyInfo.cs
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\GymManagerApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\GymManagerApplicationServices.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\refint\GymManagerApplicationServices.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\GymManagerApplicationServices.pdb
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\ref\GymManagerApplicationServices.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\obj\Debug\net8.0\GymManag.C49F1943.Up2Date
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\bin\Debug\net8.0\GymManager.DataAccess.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManagerApplicationServices\bin\Debug\net8.0\GymManager.DataAccess.pdb
