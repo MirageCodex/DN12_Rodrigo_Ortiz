@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jas/JG1fjfuOoBnKB9E6tq4R0/oh29CEVxtzy4dMCsX73J+7WRgkPZJXTKrmLXC6UWWLmGNdZRyXM5sItPo+ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dlcht\\source\\repos\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dlcht\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\dlcht\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}

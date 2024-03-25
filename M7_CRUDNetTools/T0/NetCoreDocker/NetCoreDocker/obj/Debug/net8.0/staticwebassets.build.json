@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kwTQhBIW4c67Haovz+TyOGW1CM//Wl/1yfQelFqTeDU=",
+  "Source": "NetCoreDocker",
+  "BasePath": "_content/NetCoreDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

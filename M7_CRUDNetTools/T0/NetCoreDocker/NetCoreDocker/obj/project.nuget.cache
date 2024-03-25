@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zAiNapY/C/j9JcYXqUO9FgdXvGtrPoGv3K2OVZbPU1gL9k+cUsWkHEj5hOc++v6gXm2+Nablhf3aHiJ9w1zqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dlcht\\source\\repos\\NetCoreDocker\\NetCoreDocker\\NetCoreDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dlcht\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

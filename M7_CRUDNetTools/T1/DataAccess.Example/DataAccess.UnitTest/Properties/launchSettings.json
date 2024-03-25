@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DataAccess.UnitTest": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
