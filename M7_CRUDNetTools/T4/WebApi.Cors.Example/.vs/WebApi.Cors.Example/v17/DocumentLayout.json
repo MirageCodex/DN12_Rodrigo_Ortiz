@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\webapi.cors.example.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\webapi.cors.example.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T15:34:28.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Program.cs",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Program.cs",
+              "RelativeToolTip": "WebCors.Example.Client\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:43:44.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\WeatherForecast.cs",
+              "RelativeToolTip": "WebCors.Example.Client\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:43:43.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:29:50.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T14:29:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Program.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\Program.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:07:13.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:07:11.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApi.Cors.Example.http",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.http",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\WebApi.Cors.Example.http",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.http",
+              "RelativeToolTip": "WebApi.Cors.Example\\WebApi.Cors.Example.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-26T14:07:04.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:04:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\appsettings.json",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\appsettings.json",
+              "RelativeToolTip": "WebApi.Cors.Example\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T14:04:32.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
