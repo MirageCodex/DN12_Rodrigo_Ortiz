@@ -1,0 +1,37 @@
+﻿@page
+@using Microsoft.AspNetCore.Mvc.Localization
+@using Microsoft.Extensions.Localization
+@inject IStringLocalizer<ContactModel> localizer;
+@inject IHtmlLocalizer<ContactModel> htmlLocalizer;
+@model WebCors.Example.Client.Pages.ContactModel
+@{
+}
+<div class="container py-4">
+    <form id="contactForm">
+        <div class="mb-3">
+            <label class="form-label" asp-for="Name">@localizer.GetString("Name")</label>
+            <input class="form-control" asp-for="Name" type="text" placeholder="@localizer.GetString("Name")" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" asp-for="Email">@localizer.GetString("EmailAddress")</label>
+            <input class="form-control" asp-for="Email" type="email" placeholder="@localizer.GetString("EmailAddress")" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" asp-for="Message">@localizer.GetString("Message")</label>
+            <input class="form-control" asp-for="Message" type="text" placeholder="@localizer.GetString("Message")" />
+            <span asp-validation-for="Message" class="text-danger"></span>
+        </div>
+
+        <div class="d-grid">
+            <button class="btn btn-primary btn-lg" type="submit">@localizer.GetString("Submit")</button>
+        </div>
+    </form>
+</div>
+@section Scripts{
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

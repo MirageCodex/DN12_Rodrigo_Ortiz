@@ -1,0 +1,39 @@
+﻿@page
+@using Microsoft.AspNetCore.Mvc.Localization
+@using Microsoft.Extensions.Localization
+@model IndexModel
+@inject IStringLocalizer<IndexModel> localizer;
+@inject IHtmlLocalizer<IndexModel> htmlLocalizer;
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@localizer.GetString("Welcome")</h1>
+    @htmlLocalizer.GetHtml("LearnAbout")
+    <h1 class="alert-success">@ViewData["ResultMessage"]</h1>
+</div>
+<h1>Server side</h1>
+<table class="table">
+    @foreach(var f in Model.weatherForecasts)
+    {
+        <tr>
+        <td>@f.Date</td>
+        <td>@f.Summary</td>
+        <td>@f.TemperatureC</td>
+        <td>@f.TemperatureF</td>
+        </tr>
+    }
+</table>
+<h1>Client side</h1>
+<table class ="table" id="clientTable">
+
+</table>
+@section Scripts
+{
+    <script>
+        $.get("https://localhost:44321/WeatherForecast", function (data, status) {
+            alert("Data: " + data + "\nStatus: " + status);
+        });
+    </script>
+}
