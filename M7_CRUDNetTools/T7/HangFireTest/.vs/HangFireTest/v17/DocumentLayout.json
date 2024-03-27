@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|c:\\users\\dlcht\\source\\repos\\hangfiretest\\hangfiretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|c:\\users\\dlcht\\source\\repos\\hangfiretest\\hangfiretest\\jobs\\testprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\jobs\\testprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|c:\\users\\dlcht\\source\\repos\\hangfiretest\\hangfiretest\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|c:\\users\\dlcht\\source\\repos\\hangfiretest\\hangfiretest\\helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|c:\\users\\dlcht\\source\\repos\\hangfiretest\\hangfiretest\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|c:\\users\\dlcht\\source\\repos\\hangfiretest\\hangfiretest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84FB5AE2-C611-42B5-A14D-EC67CC5FD740}|HangFireTest\\HangFireTest.csproj|solutionrelative:hangfiretest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestProcess.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Jobs\\TestProcess.cs",
+              "RelativeDocumentMoniker": "HangFireTest\\Jobs\\TestProcess.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Jobs\\TestProcess.cs",
+              "RelativeToolTip": "HangFireTest\\Jobs\\TestProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:54:59.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HangFireTest\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HangFireTest\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T15:02:22.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "HangFireTest\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "HangFireTest\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:59:21.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Helper\\DBHelper.cs",
+              "RelativeDocumentMoniker": "HangFireTest\\Helper\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Helper\\DBHelper.cs",
+              "RelativeToolTip": "HangFireTest\\Helper\\DBHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:59:32.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\appsettings.json",
+              "RelativeDocumentMoniker": "HangFireTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\appsettings.json",
+              "RelativeToolTip": "HangFireTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T13:41:52.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Program.cs",
+              "RelativeDocumentMoniker": "HangFireTest\\Program.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\HangFireTest\\HangFireTest\\Program.cs",
+              "RelativeToolTip": "HangFireTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:30:55.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
