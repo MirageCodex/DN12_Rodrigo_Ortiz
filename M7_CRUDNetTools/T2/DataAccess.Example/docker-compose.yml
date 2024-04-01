@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  dataaccess.example.webapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    image: ${DOCKER_REGISTRY-}dataaccessexamplewebapi
+    build:
+      context: .
+      dockerfile: DataAccess.Example.WebApi/Dockerfile
