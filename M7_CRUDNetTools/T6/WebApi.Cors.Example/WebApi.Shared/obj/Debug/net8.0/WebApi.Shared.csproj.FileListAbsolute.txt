@@ -1,0 +1,11 @@
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\bin\Debug\net8.0\WebApi.Shared.deps.json
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\bin\Debug\net8.0\WebApi.Shared.dll
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\bin\Debug\net8.0\WebApi.Shared.pdb
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net8.0\WebApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net8.0\WebApi.Shared.AssemblyInfoInputs.cache
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net8.0\WebApi.Shared.AssemblyInfo.cs
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net8.0\WebApi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net8.0\WebApi.Shared.dll
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net8.0\refint\WebApi.Shared.dll
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net8.0\WebApi.Shared.pdb
+C:\Users\noble\source\repos\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net8.0\ref\WebApi.Shared.dll
