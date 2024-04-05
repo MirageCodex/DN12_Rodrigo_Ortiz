@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|solutionrelative:atos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.api\\atos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|solutionrelative:atos.api\\atos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEA048-6462-45DE-9828-6CA0048AD7A9}|ATOS.ApplicationServices\\ATOS.ApplicationServices.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.applicationservices\\accounts\\profilesappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEA048-6462-45DE-9828-6CA0048AD7A9}|ATOS.ApplicationServices\\ATOS.ApplicationServices.csproj|solutionrelative:atos.applicationservices\\accounts\\profilesappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEA048-6462-45DE-9828-6CA0048AD7A9}|ATOS.ApplicationServices\\ATOS.ApplicationServices.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.applicationservices\\accounts\\usersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEA048-6462-45DE-9828-6CA0048AD7A9}|ATOS.ApplicationServices\\ATOS.ApplicationServices.csproj|solutionrelative:atos.applicationservices\\accounts\\usersappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEA048-6462-45DE-9828-6CA0048AD7A9}|ATOS.ApplicationServices\\ATOS.ApplicationServices.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.applicationservices\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEA048-6462-45DE-9828-6CA0048AD7A9}|ATOS.ApplicationServices\\ATOS.ApplicationServices.csproj|solutionrelative:atos.applicationservices\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED43FE5-43A2-4028-B0ED-352D29835C0C}|ATOS.ApplicationServices.Shared\\ATOS.ApplicationServices.Shared.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.applicationservices.shared\\accounts\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED43FE5-43A2-4028-B0ED-352D29835C0C}|ATOS.ApplicationServices.Shared\\ATOS.ApplicationServices.Shared.csproj|solutionrelative:atos.applicationservices.shared\\accounts\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED43FE5-43A2-4028-B0ED-352D29835C0C}|ATOS.ApplicationServices.Shared\\ATOS.ApplicationServices.Shared.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.applicationservices.shared\\accounts\\dto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED43FE5-43A2-4028-B0ED-352D29835C0C}|ATOS.ApplicationServices.Shared\\ATOS.ApplicationServices.Shared.csproj|solutionrelative:atos.applicationservices.shared\\accounts\\dto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F460A5-7E94-4A2C-B5A4-54699131A6E7}|ATOS.Core\\ATOS.Core.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.core\\atos.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24F460A5-7E94-4A2C-B5A4-54699131A6E7}|ATOS.Core\\ATOS.Core.csproj|solutionrelative:atos.core\\atos.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F460A5-7E94-4A2C-B5A4-54699131A6E7}|ATOS.Core\\ATOS.Core.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.core\\accounts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F460A5-7E94-4A2C-B5A4-54699131A6E7}|ATOS.Core\\ATOS.Core.csproj|solutionrelative:atos.core\\accounts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F460A5-7E94-4A2C-B5A4-54699131A6E7}|ATOS.Core\\ATOS.Core.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.core\\accounts\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F460A5-7E94-4A2C-B5A4-54699131A6E7}|ATOS.Core\\ATOS.Core.csproj|solutionrelative:atos.core\\accounts\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.dataaccess\\repositories\\profilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|solutionrelative:atos.dataaccess\\repositories\\profilesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|solutionrelative:atos.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|solutionrelative:atos.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.dataaccess\\atoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|solutionrelative:atos.dataaccess\\atoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11DD1EC-DF0B-4204-9DCB-5A56767076EB}|ATOS.DataAccess\\ATOS.DataAccess.csproj|solutionrelative:atos.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|solutionrelative:atos.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|solutionrelative:atos.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.api\\controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|solutionrelative:atos.api\\controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|solutionrelative:atos.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5452B3F-3625-4C76-BFB0-17B55A0E3C73}|ATOS.Api\\ATOS.Api.csproj|solutionrelative:atos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEA048-6462-45DE-9828-6CA0048AD7A9}|ATOS.ApplicationServices\\ATOS.ApplicationServices.csproj|c:\\users\\dlcht\\source\\repos\\atos.api\\atos.applicationservices\\accounts\\iprofilesappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEA048-6462-45DE-9828-6CA0048AD7A9}|ATOS.ApplicationServices\\ATOS.ApplicationServices.csproj|solutionrelative:atos.applicationservices\\accounts\\iprofilesappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATOS.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\ATOS.Api.csproj",
+              "RelativeDocumentMoniker": "ATOS.Api\\ATOS.Api.csproj",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\ATOS.Api.csproj",
+              "RelativeToolTip": "ATOS.Api\\ATOS.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T17:03:21.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Core\\Accounts\\User.cs",
+              "RelativeDocumentMoniker": "ATOS.Core\\Accounts\\User.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Core\\Accounts\\User.cs",
+              "RelativeToolTip": "ATOS.Core\\Accounts\\User.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:02:11.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Core\\Accounts\\Profile.cs",
+              "RelativeDocumentMoniker": "ATOS.Core\\Accounts\\Profile.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Core\\Accounts\\Profile.cs",
+              "RelativeToolTip": "ATOS.Core\\Accounts\\Profile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:02:07.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ATOS.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Core\\ATOS.Core.csproj",
+              "RelativeDocumentMoniker": "ATOS.Core\\ATOS.Core.csproj",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Core\\ATOS.Core.csproj",
+              "RelativeToolTip": "ATOS.Core\\ATOS.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T14:02:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ATOS.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ATOS.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:02:23.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfilesController.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\Controllers\\ProfilesController.cs",
+              "RelativeDocumentMoniker": "ATOS.Api\\Controllers\\ProfilesController.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\Controllers\\ProfilesController.cs",
+              "RelativeToolTip": "ATOS.Api\\Controllers\\ProfilesController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:02:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ATOS.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ATOS.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:02:18.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ATOS.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\appsettings.json",
+              "RelativeToolTip": "ATOS.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T12:02:15.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ATOS.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "ATOS.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:02:13.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ATOS.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.Api\\Program.cs",
+              "RelativeToolTip": "ATOS.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:00:27.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ATOS.DataAccess\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ATOS.DataAccess\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:01:51.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices.Shared\\Accounts\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "ATOS.ApplicationServices.Shared\\Accounts\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices.Shared\\Accounts\\Dto\\UserDto.cs",
+              "RelativeToolTip": "ATOS.ApplicationServices.Shared\\Accounts\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:01:39.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices.Shared\\Accounts\\Dto\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "ATOS.ApplicationServices.Shared\\Accounts\\Dto\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices.Shared\\Accounts\\Dto\\ProfileDto.cs",
+              "RelativeToolTip": "ATOS.ApplicationServices.Shared\\Accounts\\Dto\\ProfileDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:01:36.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfilesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\Repositories\\ProfilesRepository.cs",
+              "RelativeDocumentMoniker": "ATOS.DataAccess\\Repositories\\ProfilesRepository.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\Repositories\\ProfilesRepository.cs",
+              "RelativeToolTip": "ATOS.DataAccess\\Repositories\\ProfilesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:00:27.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ATOS.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ATOS.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:00:27.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ATOS.DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ATOS.DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:00:27.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfilesAppService.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices\\Accounts\\ProfilesAppService.cs",
+              "RelativeDocumentMoniker": "ATOS.ApplicationServices\\Accounts\\ProfilesAppService.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices\\Accounts\\ProfilesAppService.cs",
+              "RelativeToolTip": "ATOS.ApplicationServices\\Accounts\\ProfilesAppService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:01:30.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProfilesAppService.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices\\Accounts\\IProfilesAppService.cs",
+              "RelativeDocumentMoniker": "ATOS.ApplicationServices\\Accounts\\IProfilesAppService.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices\\Accounts\\IProfilesAppService.cs",
+              "RelativeToolTip": "ATOS.ApplicationServices\\Accounts\\IProfilesAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:01:22.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "ATOS.ApplicationServices\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices\\MapperProfile.cs",
+              "RelativeToolTip": "ATOS.ApplicationServices\\MapperProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:01:17.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ATOSContext.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\ATOSContext.cs",
+              "RelativeDocumentMoniker": "ATOS.DataAccess\\ATOSContext.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.DataAccess\\ATOSContext.cs",
+              "RelativeToolTip": "ATOS.DataAccess\\ATOSContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAApwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:00:27.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersAppService.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices\\Accounts\\UsersAppService.cs",
+              "RelativeDocumentMoniker": "ATOS.ApplicationServices\\Accounts\\UsersAppService.cs",
+              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\ATOS.Api\\ATOS.ApplicationServices\\Accounts\\UsersAppService.cs",
+              "RelativeToolTip": "ATOS.ApplicationServices\\Accounts\\UsersAppService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:00:27.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

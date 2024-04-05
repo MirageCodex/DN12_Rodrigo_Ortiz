@@ -1,0 +1,14 @@
+C:\Users\noble\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.csproj.AssemblyReference.cache
+C:\Users\noble\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noble\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.AssemblyInfoInputs.cache
+C:\Users\noble\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.AssemblyInfo.cs
+C:\Users\noble\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.csproj.CoreCompileInputs.cache
+C:\Users\noble\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\noble\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dlcht\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.csproj.AssemblyReference.cache
+C:\Users\dlcht\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcht\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.AssemblyInfoInputs.cache
+C:\Users\dlcht\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.AssemblyInfo.cs
+C:\Users\dlcht\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dlcht\source\repos\ATOS_CRUD\ATOS.Api\obj\Debug\net8.0\ATOS.Api.MvcApplicationPartsAssemblyInfo.cache
