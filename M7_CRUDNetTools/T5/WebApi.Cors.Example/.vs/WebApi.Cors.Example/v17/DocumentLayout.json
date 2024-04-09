@@ -1,105 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\",
+  "WorkspaceRootPath": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\resources\\pages\\contactmodel.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\pages\\contactmodel.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\resources\\pages\\contactmodel.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\pages\\contactmodel.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\resources\\commonresources.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\commonresources.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\resources\\commonresources.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\commonresources.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\resources\\commonresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\commonresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\webcors.example.client\\resources\\pages\\indexmodel.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\pages\\indexmodel.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\webcors.example.client\\resources\\pages\\indexmodel.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\pages\\indexmodel.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\components\\cultureswicher\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\components\\cultureswicher\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\models\\cultureswichermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\models\\cultureswichermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\viewcomponents\\cultureswicherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\viewcomponents\\cultureswicherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\components\\cultureswicher\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\components\\cultureswicher\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\viewcomponents\\cultureswicherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\viewcomponents\\cultureswicherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\models\\cultureswichermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\models\\cultureswichermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webcors.example.client\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\resources\\commonresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\commonresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\webcors.example.client\\resources\\pages\\indexmodel.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\pages\\indexmodel.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\webcors.example.client\\resources\\pages\\contactmodel.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\pages\\contactmodel.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\webcors.example.client\\resources\\pages\\contactmodel.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\pages\\contactmodel.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\webcors.example.client\\resources\\commonresources.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\commonresources.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\webcors.example.client\\resources\\commonresources.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\commonresources.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\webcors.example.client\\resources\\pages\\indexmodel.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\resources\\pages\\indexmodel.es-mx.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webcors.example.client\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7580C52C-8CA8-4B12-BB70-6BDB68398C2E}|WebCors.Example.Client\\WebCors.Example.Client.csproj|solutionrelative:webcors.example.client\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\source\\repos\\webapi.cors.example\\webapi.cors.example\\webapi.cors.example.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|c:\\users\\dlcht\\onedrive\\documentos\\github\\dn12_rodrigo_ortiz\\m7_crudnettools\\t5\\webapi.cors.example\\webapi.cors.example\\webapi.cors.example.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{87F84BE1-E8CF-4BAF-9663-F139BCD0D8AF}|WebApi.Cors.Example\\WebApi.Cors.Example.csproj|solutionrelative:webapi.cors.example\\webapi.cors.example.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -110,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,151 +134,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContactModel.es.resx",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\ContactModel.es.resx",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\Pages\\ContactModel.es.resx",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\ContactModel.es.resx",
-              "RelativeToolTip": "WebCors.Example.Client\\Resources\\Pages\\ContactModel.es.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-03-26T20:41:36.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContactModel.en.resx",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\ContactModel.en.resx",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\Pages\\ContactModel.en.resx",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\ContactModel.en.resx",
-              "RelativeToolTip": "WebCors.Example.Client\\Resources\\Pages\\ContactModel.en.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-03-26T20:33:01.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CommonResources.en.resx",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.en.resx",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\CommonResources.en.resx",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.en.resx",
-              "RelativeToolTip": "WebCors.Example.Client\\Resources\\CommonResources.en.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-03-26T20:09:18.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CommonResources.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.cs",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\CommonResources.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.cs",
-              "RelativeToolTip": "WebCors.Example.Client\\Resources\\CommonResources.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T20:08:30.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Contact.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Contact.cshtml.cs",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Contact.cshtml.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Contact.cshtml.cs",
-              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Contact.cshtml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T19:41:17.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Contact.cshtml",
               "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Contact.cshtml",
               "RelativeToolTip": "WebCors.Example.Client\\Pages\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-26T19:28:04.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml",
-              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T14:29:39.404Z",
+              "WhenOpened": "2024-04-07T22:51:27.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CommonResources.es.resx",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.es.resx",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\CommonResources.es.resx",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.es.resx",
-              "RelativeToolTip": "WebCors.Example.Client\\Resources\\CommonResources.es.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-03-26T20:26:51.552Z",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T18:23:49.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IndexModel.es-MX.resx",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
-              "RelativeToolTip": "WebCors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-03-26T16:05:18.104Z",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T21:55:51.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Program.cs",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Program.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Program.cs",
-              "RelativeToolTip": "WebCors.Example.Client\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:43:44.552Z",
+              "DocumentIndex": 3,
+              "Title": "default.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Components\\CultureSwicher\\default.cshtml",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Components\\CultureSwicher\\default.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Components\\CultureSwicher\\default.cshtml",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Components\\CultureSwicher\\default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T17:12:28.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAABhAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-26T15:34:28.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Error.cshtml",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T16:37:02.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T14:29:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CultureSwicherViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\ViewComponents\\CultureSwicherViewComponent.cs",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\ViewComponents\\CultureSwicherViewComponent.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\ViewComponents\\CultureSwicherViewComponent.cs",
+              "RelativeToolTip": "WebCors.Example.Client\\ViewComponents\\CultureSwicherViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:27:20.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CultureSwicherModel.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Models\\CultureSwicherModel.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Models\\CultureSwicherModel.cs",
               "RelativeDocumentMoniker": "WebCors.Example.Client\\Models\\CultureSwicherModel.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Models\\CultureSwicherModel.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Models\\CultureSwicherModel.cs",
               "RelativeToolTip": "WebCors.Example.Client\\Models\\CultureSwicherModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T17:24:21.761Z",
               "EditorCaption": ""
@@ -275,95 +266,35 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "WebCors.Example.Client\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowB4AAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T14:29:50.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IndexModel.en.resx",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\IndexModel.en.resx",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\Pages\\IndexModel.en.resx",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\IndexModel.en.resx",
-              "RelativeToolTip": "WebCors.Example.Client\\Resources\\Pages\\IndexModel.en.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-03-26T16:03:07.82Z",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Program.cs",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Program.cs",
+              "RelativeToolTip": "WebCors.Example.Client\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:43:44.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "default.cshtml",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Components\\CultureSwicher\\default.cshtml",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Components\\CultureSwicher\\default.cshtml",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Components\\CultureSwicher\\default.cshtml",
-              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Components\\CultureSwicher\\default.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T17:12:28.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebCors.Example.Client\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T18:23:49.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CultureSwicherViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\ViewComponents\\CultureSwicherViewComponent.cs",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\ViewComponents\\CultureSwicherViewComponent.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\ViewComponents\\CultureSwicherViewComponent.cs",
-              "RelativeToolTip": "WebCors.Example.Client\\ViewComponents\\CultureSwicherViewComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T17:27:20.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\WeatherForecast.cs",
-              "RelativeToolTip": "WebCors.Example.Client\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:43:43.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Error.cshtml",
-              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T16:37:02.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "WebCors.Example.Client\\Pages\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -371,23 +302,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Program.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\Program.cs",
-              "RelativeToolTip": "WebApi.Cors.Example\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAABEAAAA5AAAA",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-07T22:14:03.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommonResources.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.cs",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\CommonResources.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.cs",
+              "RelativeToolTip": "WebCors.Example.Client\\Resources\\CommonResources.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:07:13.05Z"
+              "WhenOpened": "2024-03-26T20:08:30.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IndexModel.en.resx",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\IndexModel.en.resx",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\Pages\\IndexModel.en.resx",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\IndexModel.en.resx",
+              "RelativeToolTip": "WebCors.Example.Client\\Resources\\Pages\\IndexModel.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-26T16:03:07.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactModel.es.resx",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\ContactModel.es.resx",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\Pages\\ContactModel.es.resx",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\ContactModel.es.resx",
+              "RelativeToolTip": "WebCors.Example.Client\\Resources\\Pages\\ContactModel.es.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-26T20:41:36.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactModel.en.resx",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\ContactModel.en.resx",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\Pages\\ContactModel.en.resx",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\ContactModel.en.resx",
+              "RelativeToolTip": "WebCors.Example.Client\\Resources\\Pages\\ContactModel.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-26T20:33:01.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommonResources.es.resx",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.es.resx",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\CommonResources.es.resx",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.es.resx",
+              "RelativeToolTip": "WebCors.Example.Client\\Resources\\CommonResources.es.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-26T20:26:51.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommonResources.en.resx",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.en.resx",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\CommonResources.en.resx",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\CommonResources.en.resx",
+              "RelativeToolTip": "WebCors.Example.Client\\Resources\\CommonResources.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-26T20:09:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Pages\\Contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Pages\\Contact.cshtml.cs",
+              "RelativeToolTip": "WebCors.Example.Client\\Pages\\Contact.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:41:17.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IndexModel.es-MX.resx",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
+              "RelativeToolTip": "WebCors.Example.Client\\Resources\\Pages\\IndexModel.es-MX.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-26T16:05:18.104Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebCors.Example.Client\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebCors.Example.Client\\WeatherForecast.cs",
+              "RelativeToolTip": "WebCors.Example.Client\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:43:43.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi.Cors.Example\\Program.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\Program.cs",
+              "RelativeToolTip": "WebApi.Cors.Example\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwBEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:07:13.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WebApi.Cors.Example\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\WeatherForecast.cs",
               "RelativeToolTip": "WebApi.Cors.Example\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,11 +440,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "WebApi.Cors.Example.http",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.http",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.http",
               "RelativeDocumentMoniker": "WebApi.Cors.Example\\WebApi.Cors.Example.http",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.http",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.http",
               "RelativeToolTip": "WebApi.Cors.Example\\WebApi.Cors.Example.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -407,23 +452,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "WebApi.Cors.Example\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T14:04:37.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi.Cors.Example\\appsettings.json",
-              "ToolTip": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\appsettings.json",
+              "ToolTip": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\appsettings.json",
               "RelativeToolTip": "WebApi.Cors.Example\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

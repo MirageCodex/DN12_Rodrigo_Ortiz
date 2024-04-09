@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCors.Example.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cf517da9b56c61e63bcf6d34171b0c26b6b2bbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCors.Example.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCors.Example.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

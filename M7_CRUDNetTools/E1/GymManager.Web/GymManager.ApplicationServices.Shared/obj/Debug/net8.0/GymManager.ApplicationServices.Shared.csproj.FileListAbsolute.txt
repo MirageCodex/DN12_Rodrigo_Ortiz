@@ -1,0 +1,11 @@
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\bin\Debug\net8.0\GymManager.ApplicationServices.Shared.deps.json
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\bin\Debug\net8.0\GymManager.ApplicationServices.Shared.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\bin\Debug\net8.0\GymManager.ApplicationServices.Shared.pdb
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\obj\Debug\net8.0\GymManager.ApplicationServices.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\obj\Debug\net8.0\GymManager.ApplicationServices.Shared.AssemblyInfoInputs.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\obj\Debug\net8.0\GymManager.ApplicationServices.Shared.AssemblyInfo.cs
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\obj\Debug\net8.0\GymManager.ApplicationServices.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\obj\Debug\net8.0\GymManager.ApplicationServices.Shared.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\obj\Debug\net8.0\refint\GymManager.ApplicationServices.Shared.dll
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\obj\Debug\net8.0\GymManager.ApplicationServices.Shared.pdb
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.ApplicationServices.Shared\obj\Debug\net8.0\ref\GymManager.ApplicationServices.Shared.dll

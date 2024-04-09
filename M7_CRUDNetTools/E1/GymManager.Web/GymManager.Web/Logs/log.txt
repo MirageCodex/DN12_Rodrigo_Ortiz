@@ -1,0 +1,1281 @@
+2024-02-14 14:01:07.088 -05:00 [INF] User executed Member´s Index at 14/2/2024 14:01:07
+2024-02-14 14:01:10.533 -05:00 [INF] User executed Member´s Index at 14/2/2024 14:01:10
+2024-02-14 14:01:13.196 -05:00 [INF] User executed Member´s Index at 14/2/2024 14:01:13
+2024-02-14 14:01:16.565 -05:00 [INF] User executed Member´s Index at 14/2/2024 14:01:16
+2024-03-13 09:57:18.438 -05:00 [INF] User executed Member´s Index at 13/3/2024 9:57:18
+2024-03-13 09:58:58.994 -05:00 [INF] User executed Member´s Index at 13/3/2024 9:58:58
+2024-03-13 10:01:14.888 -05:00 [INF] User executed Member´s Index at 13/3/2024 10:01:14
+2024-03-13 10:20:45.283 -05:00 [INF] User executed Member´s Index at 13/3/2024 10:20:45
+2024-03-13 10:30:57.687 -05:00 [INF] User executed Member´s Index at 13/3/2024 10:30:57
+2024-03-13 11:27:44.362 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:27:44
+2024-03-13 11:29:54.388 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:29:54
+2024-03-13 11:30:00.490 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:30:00
+2024-03-13 11:30:03.025 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:30:03
+2024-03-13 11:30:17.371 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:30:17
+2024-03-13 11:30:33.084 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:30:33
+2024-03-13 11:31:02.910 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:31:02
+2024-03-13 11:31:04.977 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:31:04
+2024-03-13 11:31:05.650 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:31:05
+2024-03-13 11:31:05.816 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:31:05
+2024-03-13 11:31:05.990 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:31:05
+2024-03-13 11:31:06.291 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:31:06
+2024-03-13 11:31:06.690 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:31:06
+2024-03-13 11:31:07.009 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:31:07
+2024-03-13 11:33:38.337 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:33:38
+2024-03-13 11:33:43.968 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:33:43
+2024-03-13 11:33:47.821 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:33:47
+2024-03-13 11:33:48.465 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:33:48
+2024-03-13 11:33:48.872 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:33:48
+2024-03-13 11:33:49.177 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:33:49
+2024-03-13 11:33:49.461 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:33:49
+2024-03-13 11:33:50.505 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:33:50
+2024-03-13 11:34:16.777 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:34:16
+2024-03-13 11:34:18.759 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:34:18
+2024-03-13 11:34:30.301 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:34:30
+2024-03-13 11:35:08.969 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:35:08
+2024-03-13 11:35:16.971 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:35:16
+2024-03-13 11:35:17.858 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:35:17
+2024-03-13 11:39:42.228 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:39:42
+2024-03-13 11:39:44.364 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:39:44
+2024-03-13 11:41:41.991 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:41
+2024-03-13 11:41:44.492 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:44
+2024-03-13 11:41:46.566 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:46
+2024-03-13 11:41:47.313 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:47
+2024-03-13 11:41:47.586 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:47
+2024-03-13 11:41:47.891 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:47
+2024-03-13 11:41:48.417 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:48
+2024-03-13 11:41:48.719 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:48
+2024-03-13 11:41:48.997 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:48
+2024-03-13 11:41:49.290 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:49
+2024-03-13 11:41:49.599 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:49
+2024-03-13 11:41:50.042 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:50
+2024-03-13 11:41:53.670 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:41:53
+2024-03-13 11:46:15.260 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:46:15
+2024-03-13 11:46:21.243 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:46:21
+2024-03-13 11:47:03.769 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:03
+2024-03-13 11:47:05.971 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:05
+2024-03-13 11:47:07.362 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:07
+2024-03-13 11:47:08.639 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:08
+2024-03-13 11:47:08.959 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:08
+2024-03-13 11:47:09.632 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:09
+2024-03-13 11:47:09.910 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:09
+2024-03-13 11:47:10.157 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:10
+2024-03-13 11:47:10.436 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:10
+2024-03-13 11:47:10.742 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:10
+2024-03-13 11:47:11.610 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:47:11
+2024-03-13 11:50:31.573 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:50:31
+2024-03-13 11:50:34.327 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:50:34
+2024-03-13 11:50:35.611 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:50:35
+2024-03-13 11:50:36.774 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:50:36
+2024-03-13 11:50:37.935 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:50:37
+2024-03-13 11:50:38.416 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:50:38
+2024-03-13 11:50:38.839 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:50:38
+2024-03-13 11:50:39.163 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:50:39
+2024-03-13 11:50:39.400 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:50:39
+2024-03-13 11:51:40.903 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:51:40
+2024-03-13 11:51:41.889 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:51:41
+2024-03-13 11:51:46.995 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:51:46
+2024-03-13 11:53:21.877 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:53:21
+2024-03-13 11:53:22.907 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:53:22
+2024-03-13 11:53:23.616 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:53:23
+2024-03-13 11:53:25.184 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:53:25
+2024-03-13 11:53:51.621 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:53:51
+2024-03-13 11:56:08.512 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:56:08
+2024-03-13 11:56:17.866 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:56:17
+2024-03-13 11:56:30.841 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:56:30
+2024-03-13 11:56:59.680 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:56:59
+2024-03-13 11:57:06.512 -05:00 [INF] User executed Member´s Index at 13/3/2024 11:57:06
+2024-03-13 12:12:26.326 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:12:26
+2024-03-13 12:17:07.187 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:17:07
+2024-03-13 12:18:18.640 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:18:18
+2024-03-13 12:18:55.623 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:18:55
+2024-03-13 12:20:04.521 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:20:04
+2024-03-13 12:20:06.048 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:20:06
+2024-03-13 12:20:09.312 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:20:09
+2024-03-13 12:20:10.745 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:20:10
+2024-03-13 12:20:11.738 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:20:11
+2024-03-13 12:20:12.433 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:20:12
+2024-03-13 12:27:13.249 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:27:13
+2024-03-13 12:27:18.006 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:27:18
+2024-03-13 12:27:19.963 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:27:19
+2024-03-13 12:28:39.602 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:28:39
+2024-03-13 12:29:34.696 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:29:34
+2024-03-13 12:30:04.000 -05:00 [INF] User executed Member´s Index at 13/3/2024 12:30:04
+2024-03-13 13:32:06.067 -05:00 [INF] User executed Member´s Index at 13/3/2024 13:32:06
+2024-03-13 13:32:58.167 -05:00 [INF] User executed Member´s Index at 13/3/2024 13:32:58
+2024-03-13 13:38:59.872 -05:00 [INF] User executed Member´s Index at 13/3/2024 13:38:59
+2024-03-13 13:43:40.998 -05:00 [INF] User executed Member´s Index at 13/3/2024 13:43:40
+2024-03-13 13:50:21.662 -05:00 [INF] User executed Member´s Index at 13/3/2024 13:50:21
+2024-03-13 13:52:45.815 -05:00 [INF] User executed Member´s Index at 13/3/2024 13:52:45
+2024-03-13 15:14:36.102 -05:00 [INF] User executed Member´s Index at 13/3/2024 15:14:36
+2024-03-13 15:16:43.890 -05:00 [INF] User executed Member´s Index at 13/3/2024 15:16:43
+2024-03-13 15:20:21.581 -05:00 [INF] User executed Member´s Index at 13/3/2024 15:20:21
+2024-03-13 15:20:47.999 -05:00 [INF] User executed Member´s Index at 13/3/2024 15:20:47
+2024-03-13 15:21:30.217 -05:00 [INF] User executed Member´s Index at 13/3/2024 15:21:30
+2024-03-13 16:18:17.218 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:18:17
+2024-03-13 16:18:40.049 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:18:40
+2024-03-13 16:18:41.792 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:18:41
+2024-03-13 16:32:35.703 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:32:35
+2024-03-13 16:32:51.578 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:32:51
+2024-03-13 16:32:57.656 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:32:57
+2024-03-13 16:43:18.963 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:43:18
+2024-03-13 16:44:04.458 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:44:04
+2024-03-13 16:46:08.890 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:46:08
+2024-03-13 16:51:54.538 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:51:54
+2024-03-13 16:52:18.678 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:52:18
+2024-03-13 16:52:45.840 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:52:45
+2024-03-13 16:58:01.744 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:58:01
+2024-03-13 16:58:15.124 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:58:15
+2024-03-13 16:58:18.259 -05:00 [INF] User executed Member´s Index at 13/3/2024 16:58:18
+2024-03-14 10:13:24.258 -05:00 [INF] User executed Member´s Index at 14/3/2024 10:13:24
+2024-03-14 12:40:00.826 -05:00 [INF] User executed Member´s Index at 14/3/2024 12:40:00
+2024-03-14 12:42:12.959 -05:00 [INF] User executed Member´s Index at 14/3/2024 12:42:12
+2024-03-14 12:43:12.236 -05:00 [INF] User executed Member´s Index at 14/3/2024 12:43:12
+2024-03-14 12:45:03.869 -05:00 [INF] User executed Member´s Index at 14/3/2024 12:45:03
+2024-03-14 12:47:05.813 -05:00 [INF] User executed Member´s Index at 14/3/2024 12:47:05
+2024-03-14 12:48:53.769 -05:00 [INF] User executed Member´s Index at 14/3/2024 12:48:53
+2024-03-14 13:37:03.529 -05:00 [INF] User executed Member´s Index at 14/3/2024 13:37:03
+2024-03-14 13:46:08.250 -05:00 [INF] User executed Member´s Index at 14/3/2024 13:46:08
+2024-03-14 13:54:17.129 -05:00 [INF] User executed Member´s Index at 14/3/2024 13:54:17
+2024-03-14 14:11:52.851 -05:00 [INF] User executed Member´s Index at 14/3/2024 14:11:52
+2024-03-14 14:26:51.295 -05:00 [INF] User executed Member´s Index at 14/3/2024 14:26:51
+2024-03-14 14:29:25.060 -05:00 [INF] User executed Member´s Index at 14/3/2024 14:29:25
+2024-03-14 14:31:16.304 -05:00 [INF] User executed Member´s Index at 14/3/2024 14:31:16
+2024-03-14 14:35:13.312 -05:00 [INF] User executed Member´s Index at 14/3/2024 14:35:13
+2024-03-14 14:41:08.922 -05:00 [INF] User executed Member´s Index at 14/3/2024 14:41:08
+2024-03-14 16:56:50.505 -05:00 [INF] User executed Member´s Index at 14/3/2024 16:56:50
+2024-03-14 16:57:12.123 -05:00 [INF] User executed Member´s Index at 14/3/2024 16:57:12
+2024-03-14 16:57:48.809 -05:00 [INF] User executed Member´s Index at 14/3/2024 16:57:48
+2024-03-14 16:59:06.383 -05:00 [INF] User executed Member´s Index at 14/3/2024 16:59:06
+2024-03-14 16:59:30.236 -05:00 [INF] User executed Member´s Index at 14/3/2024 16:59:30
+2024-03-14 16:59:55.204 -05:00 [INF] User executed Member´s Index at 14/3/2024 16:59:55
+2024-03-14 17:00:53.881 -05:00 [INF] User executed Member´s Index at 14/3/2024 17:00:53
+2024-03-14 17:01:15.661 -05:00 [INF] User executed Member´s Index at 14/3/2024 17:01:15
+2024-03-14 17:05:22.688 -05:00 [INF] User executed Member´s Index at 14/3/2024 17:05:22
+2024-03-14 17:05:27.034 -05:00 [INF] User executed Member´s Index at 14/3/2024 17:05:27
+2024-03-14 17:05:43.127 -05:00 [INF] User executed Member´s Index at 14/3/2024 17:05:43
+2024-03-14 17:13:44.342 -05:00 [INF] User executed Member´s Index at 14/3/2024 17:13:44
+2024-03-14 17:14:19.396 -05:00 [INF] User executed Member´s Index at 14/3/2024 17:14:19
+2024-03-14 18:10:21.694 -05:00 [INF] User executed Member´s Index at 14/3/2024 18:10:21
+2024-03-14 18:11:19.948 -05:00 [INF] User executed Member´s Index at 14/3/2024 18:11:19
+2024-03-14 18:15:09.195 -05:00 [INF] User executed Member´s Index at 14/3/2024 18:15:09
+2024-03-14 18:19:07.525 -05:00 [INF] User executed Member´s Index at 14/3/2024 18:19:07
+2024-03-14 18:39:39.662 -05:00 [INF] User executed Member´s Index at 14/3/2024 18:39:39
+2024-03-14 19:08:20.217 -05:00 [INF] User executed Member´s Index at 14/3/2024 19:08:20
+2024-03-14 19:10:43.842 -05:00 [INF] User executed Member´s Index at 14/3/2024 19:10:43
+2024-03-14 19:18:47.129 -05:00 [INF] User executed Member´s Index at 14/3/2024 19:18:47
+2024-03-17 07:51:36.436 -05:00 [INF] User executed Member´s Index at 17/3/2024 7:51:36
+2024-03-17 07:51:57.482 -05:00 [INF] User executed Membership Types´s Index at 17/3/2024 7:51:57
+2024-03-17 07:55:23.442 -05:00 [INF] User executed Member´s Index at 17/3/2024 7:55:23
+2024-03-17 07:55:28.410 -05:00 [INF] User executed Membership Types´s Index at 17/3/2024 7:55:28
+2024-03-17 07:56:50.542 -05:00 [INF] User executed Membership Types´s Index at 17/3/2024 7:56:50
+2024-03-17 07:59:48.648 -05:00 [INF] User executed Member´s Index at 17/3/2024 7:59:48
+2024-03-17 07:59:54.789 -05:00 [INF] User executed Membership Types´s Index at 17/3/2024 7:59:54
+2024-03-17 08:00:00.116 -05:00 [INF] User executed Membership Types´s Index at 17/3/2024 8:00:00
+2024-03-17 08:00:07.309 -05:00 [INF] User executed Membership Types´s Index at 17/3/2024 8:00:07
+2024-03-17 08:07:14.589 -05:00 [INF] User executed Membership Types´s Index at 17/3/2024 8:07:14
+2024-03-17 08:07:16.143 -05:00 [INF] User executed Membership Types´s Index at 17/3/2024 8:07:16
+2024-03-17 09:06:26.847 -05:00 [INF] User executed Member´s Index at 17/3/2024 9:06:26
+2024-03-17 09:36:33.553 -05:00 [INF] User executed Member´s Index at 17/3/2024 9:36:33
+2024-03-17 11:26:45.451 -05:00 [INF] User executed Member´s Index at 17/3/2024 11:26:45
+2024-03-17 11:31:46.941 -05:00 [INF] User executed Member´s Index at 17/3/2024 11:31:46
+2024-03-17 12:19:54.793 -05:00 [INF] User executed Member´s Index at 17/3/2024 12:19:54
+2024-03-17 12:25:03.599 -05:00 [INF] User executed Member´s Index at 17/3/2024 12:25:03
+2024-03-17 12:27:10.489 -05:00 [INF] User executed Member´s Index at 17/3/2024 12:27:10
+2024-03-17 12:29:24.719 -05:00 [INF] User executed Member´s Index at 17/3/2024 12:29:24
+2024-03-17 12:33:18.349 -05:00 [INF] User executed Member´s Index at 17/3/2024 12:33:18
+2024-03-17 12:38:32.821 -05:00 [INF] User executed Member´s Index at 17/3/2024 12:38:32
+2024-03-18 12:18:31.333 -05:00 [INF] User executed Member´s Index at 18/3/2024 12:18:31
+2024-03-18 12:21:57.913 -05:00 [INF] User executed Member´s Index at 18/3/2024 12:21:57
+2024-03-18 15:37:59.674 -05:00 [INF] User executed Member´s Index at 18/3/2024 15:37:59
+2024-03-18 15:54:21.982 -05:00 [INF] User executed Member´s Index at 18/3/2024 15:54:21
+2024-03-18 16:04:31.267 -05:00 [INF] User executed Member´s Index at 18/3/2024 16:04:31
+2024-03-18 16:07:28.131 -05:00 [INF] User executed Member´s Index at 18/3/2024 16:07:28
+2024-03-18 16:11:39.016 -05:00 [INF] User executed Member´s Index at 18/3/2024 16:11:39
+2024-03-18 16:17:39.122 -05:00 [INF] User executed Member´s Index at 18/3/2024 16:17:39
+2024-03-18 16:18:43.421 -05:00 [INF] User executed Member´s Index at 18/3/2024 16:18:43
+2024-03-18 16:29:37.745 -05:00 [INF] User executed Member´s Index at 18/3/2024 16:29:37
+2024-03-18 16:32:30.864 -05:00 [INF] User executed Member´s Index at 18/3/2024 16:32:30
+2024-03-18 16:40:32.504 -05:00 [INF] User executed Member´s Index at 18/3/2024 16:40:32
+2024-03-18 16:44:13.239 -05:00 [INF] User executed Member´s Index at 18/3/2024 16:44:13
+2024-03-19 15:22:43.847 -05:00 [INF] User executed Member´s Index at 19/3/2024 15:22:43
+2024-03-19 15:23:01.768 -05:00 [INF] User executed Member´s Index at 19/3/2024 15:23:01
+2024-03-19 15:23:05.059 -05:00 [INF] User executed Member´s Index at 19/3/2024 15:23:05
+2024-03-19 16:33:36.930 -05:00 [INF] User executed Member´s Index at 19/3/2024 16:33:36
+2024-03-19 16:34:56.652 -05:00 [INF] User executed Member´s Index at 19/3/2024 16:34:56
+2024-03-19 16:57:19.909 -05:00 [INF] User executed Member´s Index at 19/3/2024 16:57:19
+2024-03-19 18:04:43.240 -05:00 [INF] User executed Member´s Index at 19/3/2024 18:04:43
+2024-03-19 18:50:12.618 -05:00 [INF] User executed Member´s Index at 19/3/2024 18:50:12
+2024-03-19 18:52:31.536 -05:00 [INF] User executed Member´s Index at 19/3/2024 18:52:31
+2024-03-19 18:59:46.693 -05:00 [INF] User executed Member´s Index at 19/3/2024 18:59:46
+2024-03-19 19:00:31.406 -05:00 [INF] User executed Member´s Index at 19/3/2024 19:00:31
+2024-03-19 19:02:51.518 -05:00 [INF] User executed Member´s Index at 19/3/2024 19:02:51
+2024-03-19 19:05:13.428 -05:00 [INF] User executed Member´s Index at 19/3/2024 19:05:13
+2024-03-19 19:11:24.609 -05:00 [INF] User executed Member´s Index at 19/3/2024 19:11:24
+2024-03-19 19:29:25.365 -05:00 [INF] User executed Member´s Index at 19/3/2024 19:29:25
+2024-03-19 19:33:42.164 -05:00 [INF] User executed Member´s Index at 19/3/2024 19:33:42
+2024-04-08 08:23:49.193 -05:00 [INF] User executed Member´s Index at 08/04/2024 08:23:49 a. m.
+2024-04-08 08:25:47.941 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-08 08:25:48.235 -05:00 [INF] Stopped cleanly
+2024-04-08 08:25:48.404 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-08 08:25:48.405 -05:00 [INF] Hosting environment: Development
+2024-04-08 08:25:48.405 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-08 08:25:48.485 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-08 08:25:49.093 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 08:25:49.106 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-08 08:25:49.121 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 08:25:49.224 -05:00 [INF] Executed ViewResult - view Index executed in 109.9926ms.
+2024-04-08 08:25:49.229 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 121.791ms
+2024-04-08 08:25:49.229 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 08:25:49.231 -05:00 [INF] HTTP GET / responded 200 in 137.8997 ms
+2024-04-08 08:25:49.240 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 764.2692ms
+2024-04-08 08:25:49.350 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 08:25:49.350 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 08:25:49.376 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 4.1677ms
+2024-04-08 08:25:49.476 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 125.345ms
+2024-04-08 08:26:10.510 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Members - null null
+2024-04-08 08:26:10.559 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 08:26:10.566 -05:00 [INF] Route matched with {action = "Index", controller = "Members", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembersController (GymManager.Web).
+2024-04-08 08:26:10.575 -05:00 [INF] User executed Member´s Index at 08/04/2024 08:26:10 a. m.
+2024-04-08 08:26:11.549 -05:00 [INF] Executed DbCommand (30ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembers`, `m`.`cities_idcities`, `m`.`memberemail`, `m`.`member_end`, `m`.`membername`, `m`.`memberphone`, `m`.`member_start`
+FROM `Members` AS `m`
+2024-04-08 08:26:11.636 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 08:26:11.765 -05:00 [INF] Executed ViewResult - view Index executed in 130.1344ms.
+2024-04-08 08:26:11.766 -05:00 [INF] Executed action GymManager.Web.Controllers.MembersController.Index (GymManager.Web) in 1199.8787ms
+2024-04-08 08:26:11.766 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 08:26:11.767 -05:00 [INF] HTTP GET /Members responded 200 in 1208.0509 ms
+2024-04-08 08:26:11.776 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Members - 200 null text/html; charset=utf-8 1266.0464ms
+2024-04-08 08:26:11.803 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 08:26:11.803 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 08:26:11.806 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 3.1619ms
+2024-04-08 08:26:11.835 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.2409ms
+2024-04-08 08:26:16.809 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/ - null null
+2024-04-08 08:26:16.836 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 08:26:16.839 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-08 08:26:16.841 -05:00 [INF] User executed Membership Types´s Index at 08/04/2024 08:26:16 a. m.
+2024-04-08 08:26:16.906 -05:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-08 08:26:16.920 -05:00 [INF] Total membershiptypes retrieved5
+2024-04-08 08:26:16.923 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 08:26:16.938 -05:00 [INF] Executed ViewResult - view Index executed in 18.2942ms.
+2024-04-08 08:26:16.939 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 99.6789ms
+2024-04-08 08:26:16.939 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 08:26:16.939 -05:00 [INF] HTTP GET /MembershipTypes/ responded 200 in 103.2431 ms
+2024-04-08 08:26:16.941 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/ - 200 null text/html; charset=utf-8 131.8371ms
+2024-04-08 08:26:17.010 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 08:26:17.018 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 08:26:17.025 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 6.5385ms
+2024-04-08 08:26:17.039 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.5028ms
+2024-04-08 08:26:19.988 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/EquipmentTypes/ - null null
+2024-04-08 08:26:19.999 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.EquipmentTypesController.Index (GymManager.Web)'
+2024-04-08 08:26:20.002 -05:00 [INF] Route matched with {action = "Index", controller = "EquipmentTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.EquipmentTypesController (GymManager.Web).
+2024-04-08 08:26:20.004 -05:00 [INF] User executed Equipment Types's Index at 08/04/2024 08:26:20 a. m.
+2024-04-08 08:26:20.049 -05:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `e`.`idequipmenttypes`, `e`.`equipmentname`
+FROM `EquipmentTypes` AS `e`
+2024-04-08 08:26:20.054 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 08:26:20.064 -05:00 [INF] Executed ViewResult - view Index executed in 10.7779ms.
+2024-04-08 08:26:20.064 -05:00 [INF] Executed action GymManager.Web.Controllers.EquipmentTypesController.Index (GymManager.Web) in 61.8099ms
+2024-04-08 08:26:20.064 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.EquipmentTypesController.Index (GymManager.Web)'
+2024-04-08 08:26:20.064 -05:00 [INF] HTTP GET /EquipmentTypes/ responded 200 in 65.1828 ms
+2024-04-08 08:26:20.065 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/EquipmentTypes/ - 200 null text/html; charset=utf-8 77.1422ms
+2024-04-08 08:26:20.104 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 08:26:20.110 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 08:26:20.113 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 3.6227ms
+2024-04-08 08:26:20.124 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.8402ms
+2024-04-08 08:48:22.886 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-08 08:48:23.153 -05:00 [INF] Stopped cleanly
+2024-04-08 08:48:23.295 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-08 08:48:23.296 -05:00 [INF] Hosting environment: Development
+2024-04-08 08:48:23.296 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-08 08:48:23.364 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-08 08:48:24.014 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 08:48:24.030 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-08 08:48:24.046 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 08:48:24.141 -05:00 [INF] Executed ViewResult - view Index executed in 105.0467ms.
+2024-04-08 08:48:24.145 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 114.5694ms
+2024-04-08 08:48:24.145 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 08:48:24.147 -05:00 [INF] HTTP GET / responded 200 in 133.8299 ms
+2024-04-08 08:48:24.153 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 794.1382ms
+2024-04-08 08:48:24.254 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 08:48:24.254 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 08:48:24.260 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 3.4278ms
+2024-04-08 08:48:24.325 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 71.0625ms
+2024-04-08 16:01:15.072 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-08 16:01:16.222 -05:00 [INF] Stopped cleanly
+2024-04-08 16:01:16.751 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-08 16:01:16.752 -05:00 [INF] Hosting environment: Development
+2024-04-08 16:01:16.752 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-08 16:01:17.324 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-08 16:01:25.299 -05:00 [INF] Executed DbCommand (138ms) [Parameters=[@__p_0='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SELECT `a`.`Id`, `a`.`AccessFailedCount`, `a`.`ConcurrencyStamp`, `a`.`Email`, `a`.`EmailConfirmed`, `a`.`LockoutEnabled`, `a`.`LockoutEnd`, `a`.`NormalizedEmail`, `a`.`NormalizedUserName`, `a`.`PasswordHash`, `a`.`PhoneNumber`, `a`.`PhoneNumberConfirmed`, `a`.`SecurityStamp`, `a`.`TwoFactorEnabled`, `a`.`UserName`
+FROM `AspNetUsers` AS `a`
+WHERE `a`.`Id` = @__p_0
+LIMIT 1
+2024-04-08 16:01:25.674 -05:00 [INF] Executed DbCommand (37ms) [Parameters=[@__user_Id_0='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SELECT `a`.`Id`, `a`.`ClaimType`, `a`.`ClaimValue`, `a`.`UserId`
+FROM `AspNetUserClaims` AS `a`
+WHERE `a`.`UserId` = @__user_Id_0
+2024-04-08 16:01:25.714 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 16:01:25.738 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-08 16:01:25.772 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:01:26.327 -05:00 [INF] Executed ViewResult - view Index executed in 569.4129ms.
+2024-04-08 16:01:26.331 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 590.9443ms
+2024-04-08 16:01:26.331 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 16:01:26.336 -05:00 [INF] HTTP GET / responded 200 in 621.7967 ms
+2024-04-08 16:01:26.368 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 9056.3588ms
+2024-04-08 16:01:27.272 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 16:01:27.281 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 8.7791ms
+2024-04-08 16:01:27.370 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 16:01:27.572 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 202.9817ms
+2024-04-08 16:01:35.057 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Members - null null
+2024-04-08 16:01:35.235 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 16:01:35.257 -05:00 [INF] Route matched with {action = "Index", controller = "Members", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembersController (GymManager.Web).
+2024-04-08 16:01:35.279 -05:00 [INF] User executed Member´s Index at 08/04/2024 04:01:35 p. m.
+2024-04-08 16:01:35.436 -05:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembers`, `m`.`cities_idcities`, `m`.`memberemail`, `m`.`member_end`, `m`.`membername`, `m`.`memberphone`, `m`.`member_start`
+FROM `Members` AS `m`
+2024-04-08 16:01:35.520 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:01:35.892 -05:00 [INF] Executed ViewResult - view Index executed in 377.1431ms.
+2024-04-08 16:01:35.894 -05:00 [INF] Executed action GymManager.Web.Controllers.MembersController.Index (GymManager.Web) in 636.5384ms
+2024-04-08 16:01:35.894 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 16:01:35.896 -05:00 [INF] HTTP GET /Members responded 200 in 660.8575 ms
+2024-04-08 16:01:35.901 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Members - 200 null text/html; charset=utf-8 843.7398ms
+2024-04-08 16:01:36.100 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 16:01:36.144 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 16:01:36.145 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 5.6139ms
+2024-04-08 16:01:36.183 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 153.5909ms
+2024-04-08 16:01:40.247 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/ - null null
+2024-04-08 16:01:40.308 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 16:01:40.315 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-08 16:01:40.317 -05:00 [INF] User executed Membership Types´s Index at 08/04/2024 04:01:40 p. m.
+2024-04-08 16:01:40.381 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-08 16:01:40.408 -05:00 [INF] Total membershiptypes retrieved5
+2024-04-08 16:01:40.413 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:01:40.946 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 631.0691ms
+2024-04-08 16:01:40.948 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 16:01:40.954 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method250(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-08 16:01:41.447 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-08 16:01:41.465 -05:00 [INF] Route matched with {action = "HandleErrorDevelopment", controller = "Errors", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleErrorDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment) on controller GymManager.Web.Controllers.ErrorsController (GymManager.Web).
+2024-04-08 16:01:41.489 -05:00 [ERR] Unhandled Exeption
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method250(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-08 16:01:41.513 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-04-08 16:01:41.599 -05:00 [INF] Executed action GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web) in 133.8313ms
+2024-04-08 16:01:41.599 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-08 16:01:41.599 -05:00 [ERR] HTTP GET /MembershipTypes/ responded 500 in 1290.9617 ms
+2024-04-08 16:01:41.600 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/ - 500 null application/problem+json; charset=utf-8 1352.7705ms
+2024-04-08 16:28:04.091 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-08 16:28:04.399 -05:00 [INF] Stopped cleanly
+2024-04-08 16:28:04.575 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-08 16:28:04.575 -05:00 [INF] Hosting environment: Development
+2024-04-08 16:28:04.575 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-08 16:28:04.643 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-08 16:28:05.329 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 16:28:05.345 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-08 16:28:05.363 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:28:05.482 -05:00 [INF] Executed ViewResult - view Index executed in 128.7056ms.
+2024-04-08 16:28:05.486 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 140.6348ms
+2024-04-08 16:28:05.487 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 16:28:05.488 -05:00 [INF] HTTP GET / responded 200 in 160.5990 ms
+2024-04-08 16:28:05.499 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 862.8053ms
+2024-04-08 16:28:05.666 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 16:28:05.677 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 7.0861ms
+2024-04-08 16:28:05.693 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 16:28:05.784 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.2135ms
+2024-04-08 16:28:17.325 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Members - null null
+2024-04-08 16:28:17.365 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 16:28:17.374 -05:00 [INF] Route matched with {action = "Index", controller = "Members", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembersController (GymManager.Web).
+2024-04-08 16:28:17.394 -05:00 [INF] User executed Member´s Index at 08/04/2024 04:28:17 p. m.
+2024-04-08 16:28:18.345 -05:00 [INF] Executed DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembers`, `m`.`cities_idcities`, `m`.`memberemail`, `m`.`member_end`, `m`.`membername`, `m`.`memberphone`, `m`.`member_start`
+FROM `Members` AS `m`
+2024-04-08 16:28:18.422 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:28:18.559 -05:00 [INF] Executed ViewResult - view Index executed in 138.9767ms.
+2024-04-08 16:28:18.561 -05:00 [INF] Executed action GymManager.Web.Controllers.MembersController.Index (GymManager.Web) in 1186.817ms
+2024-04-08 16:28:18.561 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 16:28:18.562 -05:00 [INF] HTTP GET /Members responded 200 in 1197.1841 ms
+2024-04-08 16:28:18.571 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Members - 200 null text/html; charset=utf-8 1245.6088ms
+2024-04-08 16:28:18.603 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 16:28:18.603 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 16:28:18.605 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 1.6948ms
+2024-04-08 16:28:18.623 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.8944ms
+2024-04-08 16:28:20.590 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/ - null null
+2024-04-08 16:28:20.618 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 16:28:20.624 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-08 16:28:20.626 -05:00 [INF] User executed Membership Types´s Index at 08/04/2024 04:28:20 p. m.
+2024-04-08 16:28:20.689 -05:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-08 16:28:20.698 -05:00 [INF] Total membershiptypes retrieved5
+2024-04-08 16:28:20.701 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:28:20.914 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 289.5421ms
+2024-04-08 16:28:20.915 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 16:28:20.918 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method147(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-08 16:28:20.985 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-08 16:28:20.992 -05:00 [INF] Route matched with {action = "HandleErrorDevelopment", controller = "Errors", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleErrorDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment) on controller GymManager.Web.Controllers.ErrorsController (GymManager.Web).
+2024-04-08 16:28:21.000 -05:00 [ERR] Unhandled Exeption
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method147(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-08 16:28:21.010 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-04-08 16:28:21.051 -05:00 [INF] Executed action GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web) in 59.3576ms
+2024-04-08 16:28:21.052 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-08 16:28:21.052 -05:00 [ERR] HTTP GET /MembershipTypes/ responded 500 in 433.8553 ms
+2024-04-08 16:28:21.052 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/ - 500 null application/problem+json; charset=utf-8 462.5232ms
+2024-04-08 16:39:02.282 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-08 16:39:02.541 -05:00 [INF] Stopped cleanly
+2024-04-08 16:39:02.697 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-08 16:39:02.698 -05:00 [INF] Hosting environment: Development
+2024-04-08 16:39:02.698 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-08 16:39:02.768 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-08 16:39:04.471 -05:00 [INF] Executed DbCommand (50ms) [Parameters=[@__p_0='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SELECT `a`.`Id`, `a`.`AccessFailedCount`, `a`.`ConcurrencyStamp`, `a`.`Email`, `a`.`EmailConfirmed`, `a`.`LockoutEnabled`, `a`.`LockoutEnd`, `a`.`NormalizedEmail`, `a`.`NormalizedUserName`, `a`.`PasswordHash`, `a`.`PhoneNumber`, `a`.`PhoneNumberConfirmed`, `a`.`SecurityStamp`, `a`.`TwoFactorEnabled`, `a`.`UserName`
+FROM `AspNetUsers` AS `a`
+WHERE `a`.`Id` = @__p_0
+LIMIT 1
+2024-04-08 16:39:04.603 -05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__user_Id_0='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SELECT `a`.`Id`, `a`.`ClaimType`, `a`.`ClaimValue`, `a`.`UserId`
+FROM `AspNetUserClaims` AS `a`
+WHERE `a`.`UserId` = @__user_Id_0
+2024-04-08 16:39:04.621 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 16:39:04.633 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-08 16:39:04.648 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:39:04.758 -05:00 [INF] Executed ViewResult - view Index executed in 116.3053ms.
+2024-04-08 16:39:04.760 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 126.2419ms
+2024-04-08 16:39:04.760 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 16:39:04.762 -05:00 [INF] HTTP GET / responded 200 in 141.7805 ms
+2024-04-08 16:39:04.777 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 2013.1086ms
+2024-04-08 16:39:04.933 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 16:39:04.932 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 16:39:04.936 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 3.0916ms
+2024-04-08 16:39:04.979 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.3756ms
+2024-04-08 16:39:18.628 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Members - null null
+2024-04-08 16:39:18.654 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 16:39:18.660 -05:00 [INF] Route matched with {action = "Index", controller = "Members", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembersController (GymManager.Web).
+2024-04-08 16:39:18.679 -05:00 [INF] User executed Member´s Index at 08/04/2024 04:39:18 p. m.
+2024-04-08 16:39:18.737 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembers`, `m`.`cities_idcities`, `m`.`memberemail`, `m`.`member_end`, `m`.`membername`, `m`.`memberphone`, `m`.`member_start`
+FROM `Members` AS `m`
+2024-04-08 16:39:18.761 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:39:18.894 -05:00 [INF] Executed ViewResult - view Index executed in 134.9753ms.
+2024-04-08 16:39:18.895 -05:00 [INF] Executed action GymManager.Web.Controllers.MembersController.Index (GymManager.Web) in 234.7253ms
+2024-04-08 16:39:18.896 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 16:39:18.897 -05:00 [INF] HTTP GET /Members responded 200 in 243.5416 ms
+2024-04-08 16:39:18.899 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Members - 200 null text/html; charset=utf-8 271.1211ms
+2024-04-08 16:39:18.935 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 16:39:18.935 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 16:39:18.938 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 2.0353ms
+2024-04-08 16:39:18.966 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.9656ms
+2024-04-08 16:39:21.149 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/ - null null
+2024-04-08 16:39:21.183 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 16:39:21.186 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-08 16:39:21.187 -05:00 [INF] User executed Membership Types´s Index at 08/04/2024 04:39:21 p. m.
+2024-04-08 16:39:21.210 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-08 16:39:21.223 -05:00 [INF] Total membership types retrieved: 5
+2024-04-08 16:39:21.225 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:39:21.442 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 255.8592ms
+2024-04-08 16:39:21.443 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 16:39:21.447 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method250(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-08 16:39:21.515 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-08 16:39:21.521 -05:00 [INF] Route matched with {action = "HandleErrorDevelopment", controller = "Errors", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleErrorDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment) on controller GymManager.Web.Controllers.ErrorsController (GymManager.Web).
+2024-04-08 16:39:21.529 -05:00 [ERR] Unhandled Exeption
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method250(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-08 16:39:21.538 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-04-08 16:39:21.573 -05:00 [INF] Executed action GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web) in 51.687ms
+2024-04-08 16:39:21.573 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-08 16:39:21.573 -05:00 [ERR] HTTP GET /MembershipTypes/ responded 500 in 389.8458 ms
+2024-04-08 16:39:21.573 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/ - 500 null application/problem+json; charset=utf-8 424.134ms
+2024-04-08 16:41:06.815 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-08 16:41:07.059 -05:00 [INF] Stopped cleanly
+2024-04-08 16:41:07.221 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-08 16:41:07.221 -05:00 [INF] Hosting environment: Development
+2024-04-08 16:41:07.221 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-08 16:41:07.301 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-08 16:41:08.214 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 16:41:08.235 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-08 16:41:08.256 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:41:08.363 -05:00 [INF] Executed ViewResult - view Index executed in 117.1664ms.
+2024-04-08 16:41:08.367 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 131.0349ms
+2024-04-08 16:41:08.367 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-08 16:41:08.368 -05:00 [INF] HTTP GET / responded 200 in 156.3156 ms
+2024-04-08 16:41:08.382 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 1088.3931ms
+2024-04-08 16:41:08.457 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 16:41:08.457 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 16:41:08.463 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 4.7557ms
+2024-04-08 16:41:08.547 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 88.8811ms
+2024-04-08 16:42:06.580 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Members - null null
+2024-04-08 16:42:06.628 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 16:42:06.637 -05:00 [INF] Route matched with {action = "Index", controller = "Members", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembersController (GymManager.Web).
+2024-04-08 16:42:06.658 -05:00 [INF] User executed Member´s Index at 08/04/2024 04:42:06 p. m.
+2024-04-08 16:42:07.599 -05:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembers`, `m`.`cities_idcities`, `m`.`memberemail`, `m`.`member_end`, `m`.`membername`, `m`.`memberphone`, `m`.`member_start`
+FROM `Members` AS `m`
+2024-04-08 16:42:07.674 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:42:07.830 -05:00 [INF] Executed ViewResult - view Index executed in 158.1123ms.
+2024-04-08 16:42:07.832 -05:00 [INF] Executed action GymManager.Web.Controllers.MembersController.Index (GymManager.Web) in 1195.2559ms
+2024-04-08 16:42:07.833 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-08 16:42:07.834 -05:00 [INF] HTTP GET /Members responded 200 in 1206.0925 ms
+2024-04-08 16:42:07.848 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Members - 200 null text/html; charset=utf-8 1267.8152ms
+2024-04-08 16:42:07.901 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-08 16:42:07.901 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-08 16:42:07.904 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 2.3288ms
+2024-04-08 16:42:07.927 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.6799ms
+2024-04-08 16:42:10.127 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/ - null null
+2024-04-08 16:42:10.153 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 16:42:10.156 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-08 16:42:10.157 -05:00 [INF] User executed Membership Types´s Index at 08/04/2024 04:42:10 p. m.
+2024-04-08 16:42:10.220 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-08 16:42:10.228 -05:00 [INF] Total membership types retrieved: 5
+2024-04-08 16:42:10.231 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-08 16:42:10.398 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 242.4019ms
+2024-04-08 16:42:10.399 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-08 16:42:10.403 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method147(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-08 16:42:10.477 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-08 16:42:10.485 -05:00 [INF] Route matched with {action = "HandleErrorDevelopment", controller = "Errors", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleErrorDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment) on controller GymManager.Web.Controllers.ErrorsController (GymManager.Web).
+2024-04-08 16:42:10.493 -05:00 [ERR] Unhandled Exeption
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method147(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-08 16:42:10.504 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-04-08 16:42:10.545 -05:00 [INF] Executed action GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web) in 60.3476ms
+2024-04-08 16:42:10.546 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-08 16:42:10.546 -05:00 [ERR] HTTP GET /MembershipTypes/ responded 500 in 392.8329 ms
+2024-04-08 16:42:10.546 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/ - 500 null application/problem+json; charset=utf-8 419.133ms
+2024-04-09 05:18:13.314 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-09 05:18:13.594 -05:00 [INF] Initiating Program
+2024-04-09 05:18:13.788 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-09 05:18:13.789 -05:00 [INF] Hosting environment: Development
+2024-04-09 05:18:13.789 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-09 05:18:13.964 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-09 05:18:16.031 -05:00 [INF] Executed DbCommand (100ms) [Parameters=[@__p_0='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SELECT `a`.`Id`, `a`.`AccessFailedCount`, `a`.`ConcurrencyStamp`, `a`.`Email`, `a`.`EmailConfirmed`, `a`.`LockoutEnabled`, `a`.`LockoutEnd`, `a`.`NormalizedEmail`, `a`.`NormalizedUserName`, `a`.`PasswordHash`, `a`.`PhoneNumber`, `a`.`PhoneNumberConfirmed`, `a`.`SecurityStamp`, `a`.`TwoFactorEnabled`, `a`.`UserName`
+FROM `AspNetUsers` AS `a`
+WHERE `a`.`Id` = @__p_0
+LIMIT 1
+2024-04-09 05:18:16.161 -05:00 [INF] Executed DbCommand (11ms) [Parameters=[@__user_Id_0='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SELECT `a`.`Id`, `a`.`ClaimType`, `a`.`ClaimValue`, `a`.`UserId`
+FROM `AspNetUserClaims` AS `a`
+WHERE `a`.`UserId` = @__user_Id_0
+2024-04-09 05:18:16.174 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:16.181 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-09 05:18:16.193 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 05:18:16.302 -05:00 [INF] Executed ViewResult - view Index executed in 112.8446ms.
+2024-04-09 05:18:16.305 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 122.4751ms
+2024-04-09 05:18:16.305 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:16.307 -05:00 [INF] HTTP GET / responded 200 in 132.4370 ms
+2024-04-09 05:18:16.325 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 2364.9985ms
+2024-04-09 05:18:16.382 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Boostrap/js/bootstrap.min.js - null null
+2024-04-09 05:18:16.394 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 05:18:16.394 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Images/woman-holding-weights-near-barbe.jpg - null null
+2024-04-09 05:18:16.403 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Boostrap/css/bootstrap.min.css - null null
+2024-04-09 05:18:16.404 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Images/woman-with-visible-abs-doing-fit.jpg - null null
+2024-04-09 05:18:16.415 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/assets/images/es.png - null null
+2024-04-09 05:18:16.423 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Images/man-running-on-treadmill-machine_46604.png - null null
+2024-04-09 05:18:16.431 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/assets/images/en.png - null null
+2024-04-09 05:18:16.439 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Images/group-people-exercising-with-dum.jpg - null null
+2024-04-09 05:18:16.449 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 05:18:16.453 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 2.7805ms
+2024-04-09 05:18:16.457 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2024-04-09 05:18:16.509 -05:00 [INF] Sending file. Request path: '/Images/man-running-on-treadmill-machine_46604.png'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\Images\man-running-on-treadmill-machine_46604.png'
+2024-04-09 05:18:16.509 -05:00 [INF] Sending file. Request path: '/assets/images/es.png'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\assets\images\es.png'
+2024-04-09 05:18:16.509 -05:00 [INF] Sending file. Request path: '/Images/woman-with-visible-abs-doing-fit.jpg'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\Images\woman-with-visible-abs-doing-fit.jpg'
+2024-04-09 05:18:16.509 -05:00 [INF] Sending file. Request path: '/Images/woman-holding-weights-near-barbe.jpg'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\Images\woman-holding-weights-near-barbe.jpg'
+2024-04-09 05:18:16.509 -05:00 [INF] Sending file. Request path: '/assets/images/en.png'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\assets\images\en.png'
+2024-04-09 05:18:16.509 -05:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2024-04-09 05:18:16.510 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Images/man-running-on-treadmill-machine_46604.png - 200 8572 image/png 88.3631ms
+2024-04-09 05:18:16.510 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/assets/images/es.png - 200 3370 image/png 95.7882ms
+2024-04-09 05:18:16.510 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/assets/images/en.png - 200 1797 image/png 79.2699ms
+2024-04-09 05:18:16.512 -05:00 [INF] Sending file. Request path: '/Images/group-people-exercising-with-dum.jpg'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\Images\group-people-exercising-with-dum.jpg'
+2024-04-09 05:18:16.514 -05:00 [INF] Sending file. Request path: '/Boostrap/js/bootstrap.min.js'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\Boostrap\js\bootstrap.min.js'
+2024-04-09 05:18:16.514 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Images/woman-with-visible-abs-doing-fit.jpg - 200 54440 image/jpeg 110.4271ms
+2024-04-09 05:18:16.514 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Images/woman-holding-weights-near-barbe.jpg - 200 63369 image/jpeg 120.8608ms
+2024-04-09 05:18:16.527 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 78468 text/javascript 70.7066ms
+2024-04-09 05:18:16.527 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Boostrap/js/bootstrap.min.js - 200 60577 text/javascript 145.2908ms
+2024-04-09 05:18:16.528 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Images/group-people-exercising-with-dum.jpg - 200 92361 image/jpeg 88.8405ms
+2024-04-09 05:18:16.530 -05:00 [INF] Sending file. Request path: '/Boostrap/css/bootstrap.min.css'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\Boostrap\css\bootstrap.min.css'
+2024-04-09 05:18:16.535 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Boostrap/css/bootstrap.min.css - 200 232948 text/css 141.059ms
+2024-04-09 05:18:16.628 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 234.3785ms
+2024-04-09 05:18:19.394 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/?culture=en - null null
+2024-04-09 05:18:19.413 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:19.413 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-09 05:18:19.415 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 05:18:19.444 -05:00 [INF] Executed ViewResult - view Index executed in 30.2637ms.
+2024-04-09 05:18:19.444 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 30.6936ms
+2024-04-09 05:18:19.444 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:19.444 -05:00 [INF] HTTP GET / responded 200 in 31.3332 ms
+2024-04-09 05:18:19.445 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/?culture=en - 200 null text/html; charset=utf-8 51.0603ms
+2024-04-09 05:18:19.506 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 05:18:19.506 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 05:18:19.512 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 5.5788ms
+2024-04-09 05:18:19.521 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.8342ms
+2024-04-09 05:18:20.926 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/?culture=es-MX - null null
+2024-04-09 05:18:20.953 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:20.954 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-09 05:18:20.954 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 05:18:20.958 -05:00 [INF] Executed ViewResult - view Index executed in 3.7768ms.
+2024-04-09 05:18:20.958 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 4.0675ms
+2024-04-09 05:18:20.958 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:20.958 -05:00 [INF] HTTP GET / responded 200 in 5.5702 ms
+2024-04-09 05:18:20.958 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/?culture=es-MX - 200 null text/html; charset=utf-8 32.0411ms
+2024-04-09 05:18:21.008 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 05:18:21.012 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 05:18:21.014 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 2.0365ms
+2024-04-09 05:18:21.022 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.8365ms
+2024-04-09 05:18:22.333 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/?culture=en - null null
+2024-04-09 05:18:22.343 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:22.343 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-09 05:18:22.343 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 05:18:22.344 -05:00 [INF] Executed ViewResult - view Index executed in 1.1548ms.
+2024-04-09 05:18:22.344 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 1.3563ms
+2024-04-09 05:18:22.344 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:22.344 -05:00 [INF] HTTP GET / responded 200 in 1.7363 ms
+2024-04-09 05:18:22.345 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/?culture=en - 200 null text/html; charset=utf-8 12.1188ms
+2024-04-09 05:18:22.413 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 05:18:22.413 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 05:18:22.415 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 1.4811ms
+2024-04-09 05:18:22.435 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 21.0569ms
+2024-04-09 05:18:23.619 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/?culture=es-MX - null null
+2024-04-09 05:18:23.630 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:23.630 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-09 05:18:23.630 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 05:18:23.632 -05:00 [INF] Executed ViewResult - view Index executed in 1.0305ms.
+2024-04-09 05:18:23.632 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 1.1978ms
+2024-04-09 05:18:23.632 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 05:18:23.632 -05:00 [INF] HTTP GET / responded 200 in 1.4573 ms
+2024-04-09 05:18:23.632 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/?culture=es-MX - 200 null text/html; charset=utf-8 13.4751ms
+2024-04-09 05:18:23.681 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 05:18:23.691 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 05:18:23.693 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 1.8552ms
+2024-04-09 05:18:23.698 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 16.3806ms
+2024-04-09 06:55:34.570 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-09 06:55:34.822 -05:00 [INF] Initiating Program
+2024-04-09 06:55:35.010 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-09 06:55:35.011 -05:00 [INF] Hosting environment: Development
+2024-04-09 06:55:35.011 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-09 06:55:35.122 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-09 06:55:36.762 -05:00 [INF] Executed DbCommand (53ms) [Parameters=[@__p_0='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SELECT `a`.`Id`, `a`.`AccessFailedCount`, `a`.`ConcurrencyStamp`, `a`.`Email`, `a`.`EmailConfirmed`, `a`.`LockoutEnabled`, `a`.`LockoutEnd`, `a`.`NormalizedEmail`, `a`.`NormalizedUserName`, `a`.`PasswordHash`, `a`.`PhoneNumber`, `a`.`PhoneNumberConfirmed`, `a`.`SecurityStamp`, `a`.`TwoFactorEnabled`, `a`.`UserName`
+FROM `AspNetUsers` AS `a`
+WHERE `a`.`Id` = @__p_0
+LIMIT 1
+2024-04-09 06:55:36.895 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[@__user_Id_0='?' (Size = 255)], CommandType='"Text"', CommandTimeout='30']
+SELECT `a`.`Id`, `a`.`ClaimType`, `a`.`ClaimValue`, `a`.`UserId`
+FROM `AspNetUserClaims` AS `a`
+WHERE `a`.`UserId` = @__user_Id_0
+2024-04-09 06:55:36.911 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 06:55:36.923 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-09 06:55:36.943 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 06:55:37.109 -05:00 [INF] Executed ViewResult - view Index executed in 174.416ms.
+2024-04-09 06:55:37.112 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 188.1581ms
+2024-04-09 06:55:37.112 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 06:55:37.114 -05:00 [INF] HTTP GET / responded 200 in 204.5383 ms
+2024-04-09 06:55:37.130 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 2014.3065ms
+2024-04-09 06:55:37.218 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 06:55:37.218 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 06:55:37.225 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 5.4474ms
+2024-04-09 06:55:37.283 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 64.9415ms
+2024-04-09 06:55:42.141 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Members - null null
+2024-04-09 06:55:42.168 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-09 06:55:42.175 -05:00 [INF] Route matched with {action = "Index", controller = "Members", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembersController (GymManager.Web).
+2024-04-09 06:55:42.187 -05:00 [INF] User executed Member´s Index at 09/04/2024 06:55:42 a. m.
+2024-04-09 06:55:42.273 -05:00 [INF] Executed DbCommand (30ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembers`, `m`.`cities_idcities`, `m`.`memberemail`, `m`.`member_end`, `m`.`membername`, `m`.`memberphone`, `m`.`member_start`
+FROM `Members` AS `m`
+2024-04-09 06:55:42.293 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 06:55:42.511 -05:00 [INF] Executed ViewResult - view Index executed in 218.5243ms.
+2024-04-09 06:55:42.512 -05:00 [INF] Executed action GymManager.Web.Controllers.MembersController.Index (GymManager.Web) in 336.6284ms
+2024-04-09 06:55:42.512 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-09 06:55:42.513 -05:00 [INF] HTTP GET /Members responded 200 in 345.0700 ms
+2024-04-09 06:55:42.515 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Members - 200 null text/html; charset=utf-8 374.1201ms
+2024-04-09 06:55:42.553 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 06:55:42.554 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 06:55:42.558 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Boostrap/js/bootstrap.bundle.min.js - null null
+2024-04-09 06:55:42.560 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 6.1434ms
+2024-04-09 06:55:42.593 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.1679ms
+2024-04-09 06:55:42.705 -05:00 [INF] Sending file. Request path: '/Boostrap/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\Boostrap\js\bootstrap.bundle.min.js'
+2024-04-09 06:55:42.706 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Boostrap/js/bootstrap.bundle.min.js - 200 80663 text/javascript 148.0264ms
+2024-04-09 06:55:42.745 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/favicon.ico - null null
+2024-04-09 06:55:42.768 -05:00 [INF] HTTP GET /favicon.ico responded 404 in 0.0856 ms
+2024-04-09 06:55:42.770 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/favicon.ico - 404 null null 25.1252ms
+2024-04-09 06:55:42.771 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44381/favicon.ico, Response status code: 404
+2024-04-09 06:55:44.192 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/ - null null
+2024-04-09 06:55:44.206 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 06:55:44.209 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 06:55:44.275 -05:00 [INF] User executed Membership Types´s Index at 09/04/2024 06:55:44 a. m.
+2024-04-09 06:55:44.302 -05:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-09 06:55:44.322 -05:00 [INF] Total membership types retrieved: 5
+2024-04-09 06:55:44.325 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 06:55:44.557 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 347.7671ms
+2024-04-09 06:55:44.558 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 06:55:44.561 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method251(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-09 06:55:44.621 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-09 06:55:44.627 -05:00 [INF] Route matched with {action = "HandleErrorDevelopment", controller = "Errors", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleErrorDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment) on controller GymManager.Web.Controllers.ErrorsController (GymManager.Web).
+2024-04-09 06:55:44.637 -05:00 [ERR] Unhandled Exeption
+System.InvalidOperationException: The model item passed into the ViewDataDictionary is of type 'System.Collections.Generic.List`1[GymManager.MembershipTypes.Dto.MembershipTypeDto]', but this ViewDataDictionary instance requires a model item of type 'System.Collections.Generic.List`1[GymManager.Core.MembershipType.MembershipType]'.
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary.EnsureCompatible(Object value)
+   at lambda_method251(Closure, ViewDataDictionary)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.PartialAsync(String partialViewName, Object model, ViewDataDictionary viewData)
+   at AspNetCoreGeneratedDocument.Views_MembershipTypes_Index.ExecuteAsync() in C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\Views\MembershipTypes\Index.cshtml:line 18
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-04-09 06:55:44.645 -05:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-04-09 06:55:44.683 -05:00 [INF] Executed action GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web) in 55.2914ms
+2024-04-09 06:55:44.683 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.ErrorsController.HandleErrorDevelopment (GymManager.Web)'
+2024-04-09 06:55:44.683 -05:00 [ERR] HTTP GET /MembershipTypes/ responded 500 in 477.3040 ms
+2024-04-09 06:55:44.684 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/ - 500 null application/problem+json; charset=utf-8 492.0977ms
+2024-04-09 07:01:09.732 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-09 07:01:09.989 -05:00 [INF] Initiating Program
+2024-04-09 07:01:10.158 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-09 07:01:10.159 -05:00 [INF] Hosting environment: Development
+2024-04-09 07:01:10.159 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-09 07:01:10.224 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-09 07:01:10.859 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 07:01:10.873 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-09 07:01:10.886 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 07:01:10.997 -05:00 [INF] Executed ViewResult - view Index executed in 114.7171ms.
+2024-04-09 07:01:11.003 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 129.2456ms
+2024-04-09 07:01:11.003 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 07:01:11.005 -05:00 [INF] HTTP GET / responded 200 in 145.9869 ms
+2024-04-09 07:01:11.043 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 823.2785ms
+2024-04-09 07:01:11.088 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:01:11.088 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:01:11.091 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 3.4815ms
+2024-04-09 07:01:11.148 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 60.5878ms
+2024-04-09 07:01:24.224 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Members - null null
+2024-04-09 07:01:24.255 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-09 07:01:24.263 -05:00 [INF] Route matched with {action = "Index", controller = "Members", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembersController (GymManager.Web).
+2024-04-09 07:01:24.274 -05:00 [INF] User executed Member´s Index at 09/04/2024 07:01:24 a. m.
+2024-04-09 07:01:25.247 -05:00 [INF] Executed DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembers`, `m`.`cities_idcities`, `m`.`memberemail`, `m`.`member_end`, `m`.`membername`, `m`.`memberphone`, `m`.`member_start`
+FROM `Members` AS `m`
+2024-04-09 07:01:25.315 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 07:01:25.448 -05:00 [INF] Executed ViewResult - view Index executed in 134.5896ms.
+2024-04-09 07:01:25.449 -05:00 [INF] Executed action GymManager.Web.Controllers.MembersController.Index (GymManager.Web) in 1185.8056ms
+2024-04-09 07:01:25.450 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-09 07:01:25.451 -05:00 [INF] HTTP GET /Members responded 200 in 1195.8375 ms
+2024-04-09 07:01:25.459 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Members - 200 null text/html; charset=utf-8 1235.6586ms
+2024-04-09 07:01:25.492 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:01:25.492 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:01:25.511 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 3.9314ms
+2024-04-09 07:01:25.588 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 95.5701ms
+2024-04-09 07:01:26.940 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/ - null null
+2024-04-09 07:01:26.971 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:01:26.973 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:01:27.040 -05:00 [INF] User executed Membership Types´s Index at 09/04/2024 07:01:27 a. m.
+2024-04-09 07:01:27.103 -05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-09 07:01:27.131 -05:00 [INF] Total membership types retrieved: 5
+2024-04-09 07:01:27.133 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 07:01:27.144 -05:00 [INF] Executed ViewResult - view Index executed in 12.7449ms.
+2024-04-09 07:01:27.144 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 170.6721ms
+2024-04-09 07:01:27.144 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:01:27.145 -05:00 [INF] HTTP GET /MembershipTypes/ responded 200 in 174.0026 ms
+2024-04-09 07:01:27.146 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/ - 200 null text/html; charset=utf-8 206.2453ms
+2024-04-09 07:01:27.185 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:01:27.199 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:01:27.207 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 19.2833ms
+2024-04-09 07:01:27.221 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.7546ms
+2024-04-09 07:13:04.526 -05:00 [INF] User profile is available. Using 'C:\Users\dlcht\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-09 07:13:04.820 -05:00 [INF] Initiating Program
+2024-04-09 07:13:05.018 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-09 07:13:05.019 -05:00 [INF] Hosting environment: Development
+2024-04-09 07:13:05.019 -05:00 [INF] Content root path: C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web
+2024-04-09 07:13:05.100 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/ - null null
+2024-04-09 07:13:05.713 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 07:13:05.728 -05:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller GymManager.Web.Controllers.HomeController (GymManager.Web).
+2024-04-09 07:13:05.752 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 07:13:05.861 -05:00 [INF] Executed ViewResult - view Index executed in 123.2277ms.
+2024-04-09 07:13:05.866 -05:00 [INF] Executed action GymManager.Web.Controllers.HomeController.Index (GymManager.Web) in 137.1245ms
+2024-04-09 07:13:05.866 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.HomeController.Index (GymManager.Web)'
+2024-04-09 07:13:05.868 -05:00 [INF] HTTP GET / responded 200 in 155.3861 ms
+2024-04-09 07:13:05.873 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/ - 200 null text/html; charset=utf-8 784.4481ms
+2024-04-09 07:13:05.932 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:13:05.932 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:13:05.942 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 3.5718ms
+2024-04-09 07:13:06.000 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 67.8467ms
+2024-04-09 07:13:21.605 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/Members - null null
+2024-04-09 07:13:21.650 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-09 07:13:21.656 -05:00 [INF] Route matched with {action = "Index", controller = "Members", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembersController (GymManager.Web).
+2024-04-09 07:13:21.666 -05:00 [INF] User executed Member´s Index at 09/04/2024 07:13:21 a. m.
+2024-04-09 07:13:22.583 -05:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembers`, `m`.`cities_idcities`, `m`.`memberemail`, `m`.`member_end`, `m`.`membername`, `m`.`memberphone`, `m`.`member_start`
+FROM `Members` AS `m`
+2024-04-09 07:13:22.646 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 07:13:22.769 -05:00 [INF] Executed ViewResult - view Index executed in 124.3635ms.
+2024-04-09 07:13:22.770 -05:00 [INF] Executed action GymManager.Web.Controllers.MembersController.Index (GymManager.Web) in 1113.3804ms
+2024-04-09 07:13:22.770 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembersController.Index (GymManager.Web)'
+2024-04-09 07:13:22.771 -05:00 [INF] HTTP GET /Members responded 200 in 1121.4293 ms
+2024-04-09 07:13:22.781 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/Members - 200 null text/html; charset=utf-8 1176.5115ms
+2024-04-09 07:13:22.810 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:13:22.810 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:13:22.812 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 1.7529ms
+2024-04-09 07:13:22.839 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.6265ms
+2024-04-09 07:13:24.880 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/ - null null
+2024-04-09 07:13:24.912 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:13:24.915 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:13:25.001 -05:00 [INF] User executed Membership Types´s Index at 09/04/2024 07:13:25 a. m.
+2024-04-09 07:13:25.080 -05:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-09 07:13:25.104 -05:00 [INF] Total membership types retrieved: 5
+2024-04-09 07:13:25.107 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 07:13:25.117 -05:00 [INF] Executed ViewResult - view Index executed in 12.7818ms.
+2024-04-09 07:13:25.118 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 202.5919ms
+2024-04-09 07:13:25.118 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:13:25.118 -05:00 [INF] HTTP GET /MembershipTypes/ responded 200 in 205.6871 ms
+2024-04-09 07:13:25.118 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/ - 200 null text/html; charset=utf-8 238.9609ms
+2024-04-09 07:13:25.168 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:13:25.168 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:13:25.169 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 1.0947ms
+2024-04-09 07:13:25.196 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.9654ms
+2024-04-09 07:13:26.838 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/Create - null null
+2024-04-09 07:13:26.852 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Create (GymManager.Web)'
+2024-04-09 07:13:26.853 -05:00 [INF] Route matched with {action = "Create", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:13:26.855 -05:00 [INF] Executing ViewResult, running view Create.
+2024-04-09 07:13:26.897 -05:00 [INF] Executed ViewResult - view Create executed in 43.0312ms.
+2024-04-09 07:13:26.897 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Create (GymManager.Web) in 43.5316ms
+2024-04-09 07:13:26.897 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Create (GymManager.Web)'
+2024-04-09 07:13:26.897 -05:00 [INF] HTTP GET /MembershipTypes/Create responded 200 in 45.2141 ms
+2024-04-09 07:13:26.897 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/Create - 200 null text/html; charset=utf-8 59.0789ms
+2024-04-09 07:13:26.944 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/lib/jqueryui/jquery-ui.structure.min.css - null null
+2024-04-09 07:13:26.944 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/lib/jqueryui/jquery-ui.min.css - null null
+2024-04-09 07:13:26.947 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/lib/jqueryui/jquery-ui.theme.min.css - null null
+2024-04-09 07:13:26.948 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/lib/jqueryui/jquery-ui.min.js - null null
+2024-04-09 07:13:26.949 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/views/members/create.js - null null
+2024-04-09 07:13:26.965 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:13:26.983 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 21.4578ms
+2024-04-09 07:13:26.987 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:13:27.036 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 48.6673ms
+2024-04-09 07:13:27.070 -05:00 [INF] Sending file. Request path: '/lib/jqueryui/jquery-ui.min.css'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\lib\jqueryui\jquery-ui.min.css'
+2024-04-09 07:13:27.070 -05:00 [INF] Sending file. Request path: '/lib/jqueryui/jquery-ui.theme.min.css'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\lib\jqueryui\jquery-ui.theme.min.css'
+2024-04-09 07:13:27.070 -05:00 [INF] Sending file. Request path: '/views/members/create.js'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\Views\Members\Create.js'
+2024-04-09 07:13:27.070 -05:00 [INF] Sending file. Request path: '/lib/jqueryui/jquery-ui.structure.min.css'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\lib\jqueryui\jquery-ui.structure.min.css'
+2024-04-09 07:13:27.070 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/lib/jqueryui/jquery-ui.theme.min.css - 200 13889 text/css 123.7661ms
+2024-04-09 07:13:27.070 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/views/members/create.js - 200 113 text/javascript 122.0022ms
+2024-04-09 07:13:27.070 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/lib/jqueryui/jquery-ui.structure.min.css - 200 15560 text/css 126.4843ms
+2024-04-09 07:13:27.071 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/lib/jqueryui/jquery-ui.min.css - 200 30801 text/css 127.1432ms
+2024-04-09 07:13:27.135 -05:00 [INF] Sending file. Request path: '/lib/jqueryui/jquery-ui.min.js'. Physical path: 'C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Web\wwwroot\lib\jqueryui\jquery-ui.min.js'
+2024-04-09 07:13:27.139 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/lib/jqueryui/jquery-ui.min.js - 200 255079 text/javascript 191.5539ms
+2024-04-09 07:13:36.732 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44381/MembershipTypes/Create - application/x-www-form-urlencoded 277
+2024-04-09 07:13:36.743 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Create (GymManager.Web)'
+2024-04-09 07:13:36.752 -05:00 [INF] Route matched with {action = "Create", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(GymManager.Core.MembershipType.MembershipType) on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:13:36.982 -05:00 [INF] Executed DbCommand (57ms) [Parameters=[@p0='?' (DbType = Double), @p1='?' (Size = 255), @p2='?' (Size = 45)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO `MembershipType` (`precio`, `description`, `namemembership`)
+VALUES (@p0, @p1, @p2);
+SELECT `idmembershiptype`
+FROM `MembershipType`
+WHERE ROW_COUNT() = 1 AND `idmembershiptype` = LAST_INSERT_ID();
+2024-04-09 07:13:37.024 -05:00 [INF] Executing RedirectResult, redirecting to /MembershipTypes.
+2024-04-09 07:13:37.024 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Create (GymManager.Web) in 272.1659ms
+2024-04-09 07:13:37.024 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Create (GymManager.Web)'
+2024-04-09 07:13:37.024 -05:00 [INF] HTTP POST /MembershipTypes/Create responded 302 in 281.2686 ms
+2024-04-09 07:13:37.026 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44381/MembershipTypes/Create - 302 null null 293.6037ms
+2024-04-09 07:13:37.030 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes - null null
+2024-04-09 07:13:37.073 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:13:37.073 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:13:37.073 -05:00 [INF] User executed Membership Types´s Index at 09/04/2024 07:13:37 a. m.
+2024-04-09 07:13:37.080 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-09 07:13:37.081 -05:00 [INF] Total membership types retrieved: 6
+2024-04-09 07:13:37.081 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 07:13:37.083 -05:00 [INF] Executed ViewResult - view Index executed in 2.1554ms.
+2024-04-09 07:13:37.084 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 10.3017ms
+2024-04-09 07:13:37.084 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:13:37.084 -05:00 [INF] HTTP GET /MembershipTypes responded 200 in 10.7576 ms
+2024-04-09 07:13:37.084 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes - 200 null text/html; charset=utf-8 54.0645ms
+2024-04-09 07:13:37.125 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:13:37.128 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:13:37.129 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 5.6966ms
+2024-04-09 07:13:37.137 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 8.9773ms
+2024-04-09 07:13:38.951 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/Edit?membershipId=6 - null null
+2024-04-09 07:13:38.964 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Edit (GymManager.Web)'
+2024-04-09 07:13:38.966 -05:00 [INF] Route matched with {action = "Edit", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Edit(Int32) on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:13:39.060 -05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+WHERE `m`.`idmembershiptype` = @__p_0
+LIMIT 1
+2024-04-09 07:13:39.066 -05:00 [INF] Executing ViewResult, running view Edit.
+2024-04-09 07:13:39.082 -05:00 [INF] Executed ViewResult - view Edit executed in 17.3814ms.
+2024-04-09 07:13:39.083 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Edit (GymManager.Web) in 116.0163ms
+2024-04-09 07:13:39.083 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Edit (GymManager.Web)'
+2024-04-09 07:13:39.083 -05:00 [INF] HTTP GET /MembershipTypes/Edit responded 200 in 118.6496 ms
+2024-04-09 07:13:39.083 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/Edit?membershipId=6 - 200 null text/html; charset=utf-8 132.2031ms
+2024-04-09 07:13:39.129 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:13:39.129 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:13:39.130 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 1.2211ms
+2024-04-09 07:13:39.149 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.6692ms
+2024-04-09 07:13:43.475 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44381/MembershipTypes/Edit - application/x-www-form-urlencoded 295
+2024-04-09 07:13:43.484 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Edit (GymManager.Web)'
+2024-04-09 07:13:43.486 -05:00 [INF] Route matched with {action = "Edit", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Edit(GymManager.Core.MembershipType.MembershipType) on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:13:43.508 -05:00 [INF] Executed DbCommand (9ms) [Parameters=[@p3='?' (DbType = Int32), @p0='?' (DbType = Double), @p1='?' (Size = 255), @p2='?' (Size = 45)], CommandType='"Text"', CommandTimeout='30']
+SET AUTOCOMMIT = 1;
+UPDATE `MembershipType` SET `precio` = @p0, `description` = @p1, `namemembership` = @p2
+WHERE `idmembershiptype` = @p3;
+SELECT ROW_COUNT();
+2024-04-09 07:13:43.510 -05:00 [INF] Executing RedirectResult, redirecting to /MembershipTypes.
+2024-04-09 07:13:43.511 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Edit (GymManager.Web) in 24.0127ms
+2024-04-09 07:13:43.511 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Edit (GymManager.Web)'
+2024-04-09 07:13:43.511 -05:00 [INF] HTTP POST /MembershipTypes/Edit responded 302 in 26.8685 ms
+2024-04-09 07:13:43.511 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44381/MembershipTypes/Edit - 302 null null 36.0738ms
+2024-04-09 07:13:43.514 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes - null null
+2024-04-09 07:13:43.525 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:13:43.525 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:13:43.526 -05:00 [INF] User executed Membership Types´s Index at 09/04/2024 07:13:43 a. m.
+2024-04-09 07:13:43.533 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-09 07:13:43.533 -05:00 [INF] Total membership types retrieved: 6
+2024-04-09 07:13:43.534 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 07:13:43.536 -05:00 [INF] Executed ViewResult - view Index executed in 2.6365ms.
+2024-04-09 07:13:43.536 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 10.7413ms
+2024-04-09 07:13:43.536 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:13:43.537 -05:00 [INF] HTTP GET /MembershipTypes responded 200 in 11.3281 ms
+2024-04-09 07:13:43.537 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes - 200 null text/html; charset=utf-8 22.8459ms
+2024-04-09 07:13:43.577 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:13:43.577 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:13:43.578 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 0.9101ms
+2024-04-09 07:13:43.603 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.7338ms
+2024-04-09 07:13:47.389 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes/Delete?membershipId=6 - null null
+2024-04-09 07:13:47.400 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Delete (GymManager.Web)'
+2024-04-09 07:13:47.403 -05:00 [INF] Route matched with {action = "Delete", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Delete(Int32) on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:13:47.414 -05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+WHERE `m`.`idmembershiptype` = @__p_0
+LIMIT 1
+2024-04-09 07:13:47.434 -05:00 [INF] Executed DbCommand (8ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET AUTOCOMMIT = 1;
+DELETE FROM `MembershipType`
+WHERE `idmembershiptype` = @p0;
+SELECT ROW_COUNT();
+2024-04-09 07:13:47.437 -05:00 [INF] Executing RedirectResult, redirecting to /MembershipTypes.
+2024-04-09 07:13:47.438 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Delete (GymManager.Web) in 34.4507ms
+2024-04-09 07:13:47.438 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Delete (GymManager.Web)'
+2024-04-09 07:13:47.438 -05:00 [INF] HTTP GET /MembershipTypes/Delete responded 302 in 37.7019 ms
+2024-04-09 07:13:47.439 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes/Delete?membershipId=6 - 302 null null 49.9806ms
+2024-04-09 07:13:47.442 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/MembershipTypes - null null
+2024-04-09 07:13:47.450 -05:00 [INF] Executing endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:13:47.450 -05:00 [INF] Route matched with {action = "Index", controller = "MembershipTypes", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller GymManager.Web.Controllers.MembershipTypesController (GymManager.Web).
+2024-04-09 07:13:47.450 -05:00 [INF] User executed Membership Types´s Index at 09/04/2024 07:13:47 a. m.
+2024-04-09 07:13:47.457 -05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT `m`.`idmembershiptype`, `m`.`precio`, `m`.`description`, `m`.`namemembership`
+FROM `MembershipType` AS `m`
+2024-04-09 07:13:47.457 -05:00 [INF] Total membership types retrieved: 5
+2024-04-09 07:13:47.457 -05:00 [INF] Executing ViewResult, running view Index.
+2024-04-09 07:13:47.458 -05:00 [INF] Executed ViewResult - view Index executed in 1.1112ms.
+2024-04-09 07:13:47.459 -05:00 [INF] Executed action GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web) in 8.7448ms
+2024-04-09 07:13:47.459 -05:00 [INF] Executed endpoint 'GymManager.Web.Controllers.MembershipTypesController.Index (GymManager.Web)'
+2024-04-09 07:13:47.459 -05:00 [INF] HTTP GET /MembershipTypes responded 200 in 9.0326 ms
+2024-04-09 07:13:47.459 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/MembershipTypes - 200 null text/html; charset=utf-8 17.0317ms
+2024-04-09 07:13:47.518 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_vs/browserLink - null null
+2024-04-09 07:13:47.522 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-09 07:13:47.524 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 2.0575ms
+2024-04-09 07:13:47.529 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44381/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.7268ms

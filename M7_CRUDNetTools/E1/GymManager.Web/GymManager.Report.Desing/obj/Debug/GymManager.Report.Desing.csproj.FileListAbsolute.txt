@@ -1,0 +1,9 @@
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Report.Desing\bin\Debug\GymManager.Report.Desing.exe.config
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Report.Desing\bin\Debug\GymManager.Report.Desing.exe
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Report.Desing\bin\Debug\GymManager.Report.Desing.pdb
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.csproj.AssemblyReference.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.Properties.Resources.resources
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.csproj.GenerateResource.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.csproj.CoreCompileInputs.cache
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.exe
+C:\Users\dlcht\source\repos\GymManager.Web\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.pdb

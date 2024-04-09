@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApi.Cors.Example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cf517da9b56c61e63bcf6d34171b0c26b6b2bbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApi.Cors.Example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApi.Cors.Example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

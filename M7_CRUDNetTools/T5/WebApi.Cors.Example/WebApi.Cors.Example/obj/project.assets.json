@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
+      "projectUniqueName": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
       "projectName": "WebApi.Cors.Example",
-      "projectPath": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
+      "projectPath": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
       "packagesPath": "C:\\Users\\dlcht\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dlcht\\source\\repos\\WebApi.Cors.Example\\WebApi.Cors.Example\\obj\\",
+      "outputPath": "C:\\Users\\dlcht\\OneDrive\\Documentos\\GitHub\\DN12_Rodrigo_Ortiz\\M7_CRUDNetTools\\T5\\WebApi.Cors.Example\\WebApi.Cors.Example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dlcht\\AppData\\Roaming\\NuGet\\NuGet.Config",
